@@ -1,0 +1,134 @@
+[
+  {
+    "oxide": "Li2O",
+    "molarMass": 29.879,
+    "role": "flux",
+    "expansionCoefficient": 270
+  },
+  {
+    "oxide": "Na2O",
+    "molarMass": 61.979,
+    "role": "flux",
+    "expansionCoefficient": 395
+  },
+  {
+    "oxide": "K2O",
+    "molarMass": 94.195,
+    "role": "flux",
+    "expansionCoefficient": 465
+  },
+  {
+    "oxide": "MgO",
+    "molarMass": 40.304,
+    "role": "flux",
+    "expansionCoefficient": 60
+  },
+  {
+    "oxide": "CaO",
+    "molarMass": 56.077,
+    "role": "flux",
+    "expansionCoefficient": 130
+  },
+  {
+    "oxide": "SrO",
+    "molarMass": 103.619,
+    "role": "flux",
+    "expansionCoefficient": 160
+  },
+  {
+    "oxide": "BaO",
+    "molarMass": 153.329,
+    "role": "flux",
+    "expansionCoefficient": 200
+  },
+  {
+    "oxide": "ZnO",
+    "molarMass": 81.379,
+    "role": "flux",
+    "expansionCoefficient": 50
+  },
+  {
+    "oxide": "PbO",
+    "molarMass": 223.199,
+    "role": "flux",
+    "expansionCoefficient": null
+  },
+  {
+    "oxide": "B2O3",
+    "molarMass": 69.617,
+    "role": "stabilizer",
+    "expansionCoefficient": null
+  },
+  {
+    "oxide": "Al2O3",
+    "molarMass": 101.961,
+    "role": "stabilizer",
+    "expansionCoefficient": -30
+  },
+  {
+    "oxide": "SiO2",
+    "molarMass": 60.083,
+    "role": "glassFormer",
+    "expansionCoefficient": 38
+  },
+  {
+    "oxide": "TiO2",
+    "molarMass": 79.865,
+    "role": "glassFormer",
+    "expansionCoefficient": null
+  },
+  {
+    "oxide": "ZrO2",
+    "molarMass": 123.22,
+    "role": "glassFormer",
+    "expansionCoefficient": -60
+  },
+  {
+    "oxide": "Fe2O3",
+    "molarMass": 159.687,
+    "role": "colorant",
+    "expansionCoefficient": 55
+  },
+  {
+    "oxide": "MnO",
+    "molarMass": 70.937,
+    "role": "colorant",
+    "expansionCoefficient": 105
+  },
+  {
+    "oxide": "CoO",
+    "molarMass": 74.932,
+    "role": "colorant",
+    "expansionCoefficient": 50
+  },
+  {
+    "oxide": "CuO",
+    "molarMass": 79.545,
+    "role": "colorant",
+    "expansionCoefficient": 30
+  },
+  {
+    "oxide": "Cr2O3",
+    "molarMass": 151.989,
+    "role": "colorant",
+    "expansionCoefficient": null
+  },
+  {
+    "oxide": "NiO",
+    "molarMass": 74.692,
+    "role": "colorant",
+    "expansionCoefficient": 50
+  },
+  {
+    "oxide": "SnO2",
+    "molarMass": 150.708,
+    "role": "glassFormer",
+    "expansionCoefficient": -45
+  },
+  {
+    "oxide": "P2O5",
+    "molarMass": 141.943,
+    "role": "glassFormer",
+    "expansionCoefficient": 140
+  }
+]

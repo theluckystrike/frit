@@ -1,0 +1,2252 @@
+[
+  {
+    "AXRole": "AXWindow",
+    "AXTitle": "QA-hosted.glazebook \u2013 QA hosted cone 6 \u00b7 Cone 6",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 1320.0,
+      "height": 780.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 1320.0,
+      "height": 780.0
+    }
+  },
+  {
+    "AXRole": "AXSplitGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 1320.0,
+      "height": 780.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 220.0,
+      "height": 780.0
+    }
+  },
+  {
+    "AXRole": "AXScrollArea",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 172.0
+    },
+    "AXSize": {
+      "width": 220.0,
+      "height": 728.0
+    }
+  },
+  {
+    "AXRole": "AXOutline",
+    "AXTitle": "",
+    "AXDescription": "Sidebar",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 172.0
+    },
+    "AXSize": {
+      "width": 220.0,
+      "height": 728.0
+    }
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 172.0
+    },
+    "AXSize": {
+      "width": 220.0,
+      "height": 19.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 310.0,
+      "y": 172.0
+    },
+    "AXSize": {
+      "width": 200.0,
+      "height": 19.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 314.0,
+      "y": 172.0
+    },
+    "AXSize": {
+      "width": 204.0,
+      "height": 19.0
+    }
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Recipes",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 314.0,
+      "y": 174.5
+    },
+    "AXSize": {
+      "width": 44.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 191.0
+    },
+    "AXSize": {
+      "width": 220.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 310.0,
+      "y": 191.0
+    },
+    "AXSize": {
+      "width": 200.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Recipe QA hosted cone 6, cone 6",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 321.0,
+      "y": 197.0
+    },
+    "AXSize": {
+      "width": 128.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 232.0
+    },
+    "AXSize": {
+      "width": 220.0,
+      "height": 19.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 310.0,
+      "y": 232.0
+    },
+    "AXSize": {
+      "width": 200.0,
+      "height": 19.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 314.0,
+      "y": 232.0
+    },
+    "AXSize": {
+      "width": 204.0,
+      "height": 19.0
+    }
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Book",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 314.0,
+      "y": 234.5
+    },
+    "AXSize": {
+      "width": 28.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 251.0
+    },
+    "AXSize": {
+      "width": 220.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 310.0,
+      "y": 251.0
+    },
+    "AXSize": {
+      "width": 200.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Test log, 0 tiles",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 320.0,
+      "y": 257.0
+    },
+    "AXSize": {
+      "width": 53.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 279.0
+    },
+    "AXSize": {
+      "width": 220.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 310.0,
+      "y": 279.0
+    },
+    "AXSize": {
+      "width": 200.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Materials",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 320.0,
+      "y": 285.0
+    },
+    "AXSize": {
+      "width": 76.0,
+      "height": 16.5399169921875
+    }
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "ListColumn",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 310.0,
+      "y": 172.0
+    },
+    "AXSize": {
+      "width": 200.0,
+      "height": 728.0
+    }
+  },
+  {
+    "AXRole": "AXSplitter",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "220.0",
+    "AXEnabled": false,
+    "AXVisible": null,
+    "AXHidden": false,
+    "AXPosition": {
+      "x": 520.0,
+      "y": 172.0
+    },
+    "AXSize": {
+      "width": 1.0,
+      "height": 728.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 521.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 1099.0,
+      "height": 780.0
+    }
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Recipe name",
+    "AXIdentifier": "",
+    "AXValue": "QA hosted cone 6",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 188.0
+    },
+    "AXSize": {
+      "width": 520.0,
+      "height": 22.0
+    }
+  },
+  {
+    "AXRole": "AXPopUpButton",
+    "AXTitle": "",
+    "AXDescription": "Cone, Firing cone",
+    "AXIdentifier": "",
+    "AXValue": "Cone 6",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1069.0,
+      "y": 190.0
+    },
+    "AXSize": {
+      "width": 94.0,
+      "height": 20.0
+    }
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Recipe notes",
+    "AXIdentifier": "",
+    "AXValue": "Owned hosted probe book.",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 216.0
+    },
+    "AXSize": {
+      "width": 626.0,
+      "height": 21.0
+    }
+  },
+  {
+    "AXRole": "AXScrollArea",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 521.0,
+      "y": 245.0
+    },
+    "AXSize": {
+      "width": 658.0,
+      "height": 116.0
+    }
+  },
+  {
+    "AXRole": "AXOutline",
+    "AXTitle": "",
+    "AXDescription": "Recipe materials",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 521.0,
+      "y": 245.0
+    },
+    "AXSize": {
+      "width": 658.0,
+      "height": 116.0
+    }
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 521.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 658.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Material: Silica (quartz, flint)",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 282.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Amount of Silica (quartz, flint)",
+    "AXIdentifier": "",
+    "AXValue": "60",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 282.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1018.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1018.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "60.0 % of base",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1044.0,
+      "y": 282.0
+    },
+    "AXSize": {
+      "width": 44.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 58.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 278.0
+    },
+    "AXSize": {
+      "width": 58.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXCheckBox",
+    "AXTitle": "",
+    "AXDescription": "Silica (quartz, flint) is an addition",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 283.0
+    },
+    "AXSize": {
+      "width": 14.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 521.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 658.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Material: Kaolin (kaolinite)",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 306.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Amount of Kaolin (kaolinite)",
+    "AXIdentifier": "",
+    "AXValue": "30",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 306.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1018.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1018.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "30.0 % of base",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1044.0,
+      "y": 306.0
+    },
+    "AXSize": {
+      "width": 44.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 58.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 302.0
+    },
+    "AXSize": {
+      "width": 58.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXCheckBox",
+    "AXTitle": "",
+    "AXDescription": "Kaolin (kaolinite) is an addition",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 307.0
+    },
+    "AXSize": {
+      "width": 14.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 521.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 658.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Material: Whiting (calcium carbonate)",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 330.0
+    },
+    "AXSize": {
+      "width": 377.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Amount of Whiting (calcium carbonate)",
+    "AXIdentifier": "",
+    "AXValue": "10",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 931.0,
+      "y": 330.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1018.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1018.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 70.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "10.0 % of base",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1044.0,
+      "y": 330.0
+    },
+    "AXSize": {
+      "width": 44.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 58.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 326.0
+    },
+    "AXSize": {
+      "width": 58.0,
+      "height": 24.0
+    }
+  },
+  {
+    "AXRole": "AXCheckBox",
+    "AXTitle": "",
+    "AXDescription": "Whiting (calcium carbonate) is an addition",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1105.0,
+      "y": 331.0
+    },
+    "AXSize": {
+      "width": 14.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "FEFC5D57-0D19-4A89-A55C-B12A0DA96AEF",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 531.0,
+      "y": 273.0
+    },
+    "AXSize": {
+      "width": 392.0,
+      "height": 88.0
+    }
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "EA03A0B3-5583-4717-AE75-0F59F321D1BB",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 923.0,
+      "y": 273.0
+    },
+    "AXSize": {
+      "width": 87.0,
+      "height": 88.0
+    }
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "97AD41E1-50DD-4EE0-913F-EFC98CCE38D7",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1010.0,
+      "y": 273.0
+    },
+    "AXSize": {
+      "width": 87.0,
+      "height": 88.0
+    }
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "7092BED9-5ACA-480D-89C4-6B1C314F252A",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1097.0,
+      "y": 273.0
+    },
+    "AXSize": {
+      "width": 72.0,
+      "height": 88.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 521.0,
+      "y": 245.0
+    },
+    "AXSize": {
+      "width": 658.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "Material",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 531.0,
+      "y": 245.0
+    },
+    "AXSize": {
+      "width": 392.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "Amount",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 923.0,
+      "y": 245.0
+    },
+    "AXSize": {
+      "width": 87.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "% of base",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1010.0,
+      "y": 245.0
+    },
+    "AXSize": {
+      "width": 87.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "Addition",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1097.0,
+      "y": 245.0
+    },
+    "AXSize": {
+      "width": 72.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXUnknown",
+    "AXTitle": "",
+    "AXDescription": "Base total 100",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 535.0,
+      "y": 366.5
+    },
+    "AXSize": {
+      "width": 553.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Add Material",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 527.0,
+      "y": 393.0
+    },
+    "AXSize": {
+      "width": 24.0,
+      "height": 20.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Remove Material",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": false,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 552.0,
+      "y": 393.0
+    },
+    "AXSize": {
+      "width": 24.0,
+      "height": 20.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Normalize Base to 100",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1049.0,
+      "y": 396.0
+    },
+    "AXSize": {
+      "width": 118.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Stull chart",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 427.5
+    },
+    "AXSize": {
+      "width": 74.0,
+      "height": 19.0
+    }
+  },
+  {
+    "AXRole": "AXUnknown",
+    "AXTitle": "",
+    "AXDescription": "Stull chart",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 453.0
+    },
+    "AXSize": {
+      "width": 626.0,
+      "height": 399.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Regions from Stull's 1912 chart, fired to cone 11, glazes without boron. Use it as a rough guide.",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 537.0,
+      "y": 877.0
+    },
+    "AXSize": {
+      "width": 457.0,
+      "height": 13.0
+    }
+  },
+  {
+    "AXRole": "AXScrollArea",
+    "AXTitle": "",
+    "AXDescription": "Chemistry",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1180.0,
+      "y": 172.0
+    },
+    "AXSize": {
+      "width": 440.0,
+      "height": 728.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Chemistry",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 189.88623046875
+    },
+    "AXSize": {
+      "width": 74.0,
+      "height": 19.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Reference ranges",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 222.88623046875
+    },
+    "AXSize": {
+      "width": 107.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXPopUpButton",
+    "AXTitle": "",
+    "AXDescription": "Reference range set",
+    "AXIdentifier": "",
+    "AXValue": "Hesselberth & Roy, cone 6",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1311.0,
+      "y": 221.0
+    },
+    "AXSize": {
+      "width": 293.0,
+      "height": 20.0
+    }
+  },
+  {
+    "AXRole": "AXCheckBox",
+    "AXTitle": "",
+    "AXDescription": "Include additions in chemistry",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 253.0
+    },
+    "AXSize": {
+      "width": 200.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "These are reference ranges for comparison, not a safety rating.",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 280.88623046875
+    },
+    "AXSize": {
+      "width": 305.0,
+      "height": 13.0
+    }
+  },
+  {
+    "AXRole": "AXDisclosureTriangle",
+    "AXTitle": "",
+    "AXDescription": "Source",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1174.0,
+      "y": 299.88623046875
+    },
+    "AXSize": {
+      "width": 67.5,
+      "height": 13.11376953125
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Silica to alumina ratio 10.59",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 328.88623046875
+    },
+    "AXSize": {
+      "width": 67.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "R 2 O to R O ratio 0.00 to 1.00",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 348.88623046875
+    },
+    "AXSize": {
+      "width": 52.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Expansion, Appen estimate, 23.5 times 10 to the minus 7 per kelvin",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 368.88623046875
+    },
+    "AXSize": {
+      "width": 171.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "Unity molecular formula",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 396.88623046875
+    },
+    "AXSize": {
+      "width": 392.0,
+      "height": 200.0
+    }
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Fluxes (RO / R\u2082O)",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 418.88623046875
+    },
+    "AXSize": {
+      "width": 94.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "N a 2 O, UMF 0.000, 0.0 weight percent, reference range for KNaO 0.10 to 0.30, Below range",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 439.88623046875
+    },
+    "AXSize": {
+      "width": 31.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "K 2 O, UMF 0.000, 0.0 weight percent, reference range for KNaO 0.10 to 0.30, Below range",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 458.88623046875
+    },
+    "AXSize": {
+      "width": 23.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "C a O, UMF 1.000, 6.1 weight percent, reference range 0.20 to 0.60, Above range",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 477.88623046875
+    },
+    "AXSize": {
+      "width": 27.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Stabilizers (R\u2082O\u2083)",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 502.88623046875
+    },
+    "AXSize": {
+      "width": 95.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "B 2 O 3, UMF 0.000, 0.0 weight percent, reference range 0.15 to 0.35, Below range",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 519.88623046875
+    },
+    "AXSize": {
+      "width": 28.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "A l 2 O 3, UMF 1.163, 13.0 weight percent, reference range 0.25 to 0.40, Above range",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 538.88623046875
+    },
+    "AXSize": {
+      "width": 31.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Glass formers (RO\u2082)",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 563.88623046875
+    },
+    "AXSize": {
+      "width": 109.0,
+      "height": 14.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "S i O 2, UMF 12.321, 80.9 weight percent, reference range 2.50 to 4.00, Above range",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 580.88623046875
+    },
+    "AXSize": {
+      "width": 26.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "Not listed (0, within range): MgO, SrO, ZnO.",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1196.0,
+      "y": 608.88623046875
+    },
+    "AXSize": {
+      "width": 211.0,
+      "height": 13.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "6 oxides outside the reference range",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1197.0,
+      "y": 634.11376953125
+    },
+    "AXSize": {
+      "width": 230.0,
+      "height": 15.0
+    }
+  },
+  {
+    "AXRole": "AXToolbar",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 300.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 1320.0,
+      "height": 52.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Hide Sidebar",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 387.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 42.0,
+      "height": 52.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Hide Sidebar",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 396.0,
+      "y": 134.0
+    },
+    "AXSize": {
+      "width": 24.0,
+      "height": 18.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Add Recipe",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 429.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 36.0,
+      "height": 52.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Add Recipe",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 438.0,
+      "y": 134.0
+    },
+    "AXSize": {
+      "width": 18.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1350.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 99.0,
+      "height": 52.0
+    }
+  },
+  {
+    "AXRole": "AXPopUpButton",
+    "AXTitle": "Blend",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1354.0,
+      "y": 132.0
+    },
+    "AXSize": {
+      "width": 91.0,
+      "height": 28.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Batch Sheet",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1449.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 121.0,
+      "height": 52.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Batch Sheet",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1458.0,
+      "y": 134.0
+    },
+    "AXSize": {
+      "width": 103.0,
+      "height": 20.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Hide Chemistry",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1570.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 42.0,
+      "height": 52.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Hide chemistry",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 1579.0,
+      "y": 134.0
+    },
+    "AXSize": {
+      "width": 24.0,
+      "height": 18.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 319.0,
+      "y": 138.0
+    },
+    "AXSize": {
+      "width": 14.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 359.0,
+      "y": 138.0
+    },
+    "AXSize": {
+      "width": 14.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": null,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 359.0,
+      "y": 138.0
+    },
+    "AXSize": {
+      "width": 14.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 339.0,
+      "y": 138.0
+    },
+    "AXSize": {
+      "width": 14.0,
+      "height": 16.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "QA-hosted.glazebook",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 529.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 821.0,
+      "height": 52.0
+    }
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXIdentifier": "",
+    "AXValue": "QA hosted cone 6 \u00b7 Cone 6",
+    "AXEnabled": true,
+    "AXVisible": null,
+    "AXHidden": null,
+    "AXPosition": {
+      "x": 529.0,
+      "y": 120.0
+    },
+    "AXSize": {
+      "width": 821.0,
+      "height": 52.0
+    }
+  }
+]

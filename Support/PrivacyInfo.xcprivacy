@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- No tracking, no collected data. The only required-reason API is UserDefaults (CA92.1: the app's own
+     settings, read and written only by Frit). Call sites (W6 X5 audit, 26 Oct 2026):
+     @AppStorage includeAdditions (RecipeDetailView), limitSetID (ChemistryPanel), batchTotalGrams and
+     batchPrecision (BatchSheet, also read in BatchPrinter.printWithSavedSettings), firstLaunchSampleShown
+     (BookWindow); @SceneStorage sidebarSelection and showChemistry (BookWindow); registered default
+     NSShowAppCentricOpenPanelInsteadOfUntitledFile (GlazeMainApp.init). The FritQA* keys are DEBUG only.
+     No file timestamp, disk space, system boot time or active keyboard API is called (grep and nm -u). -->
+<plist version="1.0">
+<dict>
+	<key>NSPrivacyTracking</key>
+	<false/>
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
+	<key>NSPrivacyAccessedAPITypes</key>
+	<array>
+		<dict>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryUserDefaults</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>CA92.1</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

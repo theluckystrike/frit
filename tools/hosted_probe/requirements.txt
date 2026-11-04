@@ -1,0 +1,5 @@
+pyobjc-core==12.2.2 --hash=sha256:122e6ad302a2abf5d4d4adb0156db751600ddf2768441696cba17b31323085e7
+pyobjc-framework-Cocoa==12.2.2 --hash=sha256:e106f395531e67694376b0f1184612cbeea3ec8b9bf56b55ef41d026171d2a2d
+pyobjc-framework-Quartz==12.2.2 --hash=sha256:7f668979d0c7320bf8f7ed6e030da578f93ab0f5dd619b295ec735cd8d5faa34
+pyobjc-framework-CoreText==12.2.2 --hash=sha256:a69611de569d92776e6391ca25492a5bbb4a05ba744006349e377a4fc5f7c8a5
+pyobjc-framework-ApplicationServices==12.2.2 --hash=sha256:5506bd6b5268a97fcb79b5b021f6cbbaaf5cdff3ec87094d8870268d8cf096ed

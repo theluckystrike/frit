@@ -1,0 +1,728 @@
+[
+  {
+    "AXRole": "AXWindow",
+    "AXTitle": "QA-hosted.glazebook \u2013 QA hosted cone 6 \u00b7 Cone 6",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXSplitGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXScrollArea",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXOutline",
+    "AXTitle": "",
+    "AXDescription": "Sidebar",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Recipes",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Recipe QA hosted cone 6, cone 6"
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Book",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Test log, 0 tiles"
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Materials"
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXSplitter",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "220.0"
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Recipe name",
+    "AXValue": "QA hosted cone 6"
+  },
+  {
+    "AXRole": "AXPopUpButton",
+    "AXTitle": "",
+    "AXDescription": "Cone, Firing cone",
+    "AXValue": "Cone 6"
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Recipe notes",
+    "AXValue": "Owned hosted probe book."
+  },
+  {
+    "AXRole": "AXScrollArea",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXOutline",
+    "AXTitle": "",
+    "AXDescription": "Recipe materials",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Material: Silica (quartz, flint)",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Amount of Silica (quartz, flint)",
+    "AXValue": "60"
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "60.0 % of base"
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCheckBox",
+    "AXTitle": "",
+    "AXDescription": "Addition, Silica (quartz, flint) is an addition",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Material: Kaolin (kaolinite)",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Amount of Kaolin (kaolinite)",
+    "AXValue": "30"
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "30.0 % of base"
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCheckBox",
+    "AXTitle": "",
+    "AXDescription": "Addition, Kaolin (kaolinite) is an addition",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXRow",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Material: Whiting (calcium carbonate)",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXTitle": "",
+    "AXDescription": "Amount of Whiting (calcium carbonate)",
+    "AXValue": "10"
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "10.0 % of base"
+  },
+  {
+    "AXRole": "AXCell",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXCheckBox",
+    "AXTitle": "",
+    "AXDescription": "Addition, Whiting (calcium carbonate) is an addition",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXColumn",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "Material",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "Amount",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "% of base",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "Addition",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXUnknown",
+    "AXTitle": "",
+    "AXDescription": "Base total 100",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Add Material",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Remove Material",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Normalize Base to 100",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Stull chart"
+  },
+  {
+    "AXRole": "AXUnknown",
+    "AXTitle": "",
+    "AXDescription": "Stull chart",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Regions from Stull's 1912 chart, fired to cone 11, glazes without boron. Use it as a rough guide."
+  },
+  {
+    "AXRole": "AXScrollArea",
+    "AXTitle": "",
+    "AXDescription": "Chemistry",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Chemistry"
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Reference ranges"
+  },
+  {
+    "AXRole": "AXPopUpButton",
+    "AXTitle": "",
+    "AXDescription": "Reference range set",
+    "AXValue": "Hesselberth & Roy, cone 6"
+  },
+  {
+    "AXRole": "AXCheckBox",
+    "AXTitle": "",
+    "AXDescription": "Include additions in chemistry",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "These are reference ranges for comparison, not a safety rating."
+  },
+  {
+    "AXRole": "AXDisclosureTriangle",
+    "AXTitle": "",
+    "AXDescription": "Source",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Silica to alumina ratio 10.59"
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "R 2 O to R O ratio 0.00 to 1.00"
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Expansion, Appen estimate, 23.5 times 10 to the minus 7 per kelvin"
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "Unity molecular formula",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Fluxes (RO / R\u2082O)",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "N a 2 O, UMF 0.000, 0.0 weight percent, reference range for KNaO 0.10 to 0.30, Below range"
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "K 2 O, UMF 0.000, 0.0 weight percent, reference range for KNaO 0.10 to 0.30, Below range"
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "C a O, UMF 1.000, 6.1 weight percent, reference range 0.20 to 0.60, Above range"
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Stabilizers (R\u2082O\u2083)",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "B 2 O 3, UMF 0.000, 0.0 weight percent, reference range 0.15 to 0.35, Below range"
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "A l 2 O 3, UMF 1.163, 13.0 weight percent, reference range 0.25 to 0.40, Above range"
+  },
+  {
+    "AXRole": "AXHeading",
+    "AXTitle": "",
+    "AXDescription": "Glass formers (RO\u2082)",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "S i O 2, UMF 12.321, 80.9 weight percent, reference range 2.50 to 4.00, Above range"
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "Not listed (0, within range): MgO, SrO, ZnO."
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "6 oxides outside the reference range"
+  },
+  {
+    "AXRole": "AXToolbar",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Add Recipe",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Hide Sidebar",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXMenuButton",
+    "AXTitle": "Blend",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Batch Sheet",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "Hide Chemistry",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXGroup",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": ""
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "QA-hosted.glazebook"
+  },
+  {
+    "AXRole": "AXStaticText",
+    "AXTitle": "",
+    "AXDescription": "",
+    "AXValue": "QA hosted cone 6 \u00b7 Cone 6"
+  }
+]

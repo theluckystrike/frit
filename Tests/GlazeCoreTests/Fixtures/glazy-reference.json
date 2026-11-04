@@ -1,0 +1,2785 @@
+{
+ "materials": [
+  {
+   "analysis": {
+    "Al2O3": 65.39
+   },
+   "id": "glazy-15020",
+   "loi": 34.61,
+   "name": "Alumina Hydrate",
+   "url": "https://glazy.org/materials/15020"
+  },
+  {
+   "analysis": {
+    "Al2O3": 25.0245,
+    "CaO": 0.3028,
+    "Fe2O3": 1.019,
+    "K2O": 0.9016,
+    "MgO": 0.2968,
+    "Na2O": 0.3955,
+    "SiO2": 59.0601,
+    "TiO2": 0.9997
+   },
+   "id": "glazy-15058",
+   "loi": 12,
+   "name": "Ball Clay",
+   "url": "https://glazy.org/materials/15058"
+  },
+  {
+   "analysis": {
+    "BaO": 77.66
+   },
+   "id": "glazy-15062",
+   "loi": 22.34,
+   "name": "Barium Carbonate",
+   "url": "https://glazy.org/materials/15062"
+  },
+  {
+   "analysis": {
+    "Al2O3": 20.1153,
+    "CaO": 1.0057,
+    "Fe2O3": 3.514,
+    "K2O": 1.0064,
+    "MgO": 2.0096,
+    "Na2O": 3.0194,
+    "SiO2": 59.3295
+   },
+   "id": "glazy-15072",
+   "loi": 10,
+   "name": "Bentonite",
+   "url": "https://glazy.org/materials/15072"
+  },
+  {
+   "analysis": {
+    "CoO": 63
+   },
+   "id": "glazy-15114",
+   "loi": 37,
+   "name": "Cobalt Carbonate",
+   "url": "https://glazy.org/materials/15114"
+  },
+  {
+   "analysis": {
+    "CoO": 93.35
+   },
+   "id": "glazy-15117",
+   "loi": 6.65,
+   "name": "Cobalt Oxide",
+   "url": "https://glazy.org/materials/15117"
+  },
+  {
+   "analysis": {
+    "B2O3": 50.8,
+    "CaO": 27.3
+   },
+   "id": "glazy-15119",
+   "loi": 21.9,
+   "name": "Colemanite",
+   "url": "https://glazy.org/materials/15119"
+  },
+  {
+   "analysis": {
+    "CuO": 64.38
+   },
+   "id": "glazy-15120",
+   "loi": 35.62,
+   "name": "Copper Carbonate",
+   "url": "https://glazy.org/materials/15120"
+  },
+  {
+   "analysis": {
+    "Al2O3": 16.3276,
+    "CaO": 1.8126,
+    "Fe2O3": 0.1936,
+    "K2O": 4.3007,
+    "MgO": 0.1411,
+    "Na2O": 3.2972,
+    "SiO2": 73.7766,
+    "TiO2": 0.1506
+   },
+   "id": "glazy-15125",
+   "loi": 0,
+   "name": "Cornwall Stone",
+   "url": "https://glazy.org/materials/15125"
+  },
+  {
+   "analysis": {
+    "Al2O3": 17,
+    "CaO": 0.3,
+    "Fe2O3": 0.1,
+    "K2O": 10,
+    "Na2O": 3,
+    "SiO2": 68.5
+   },
+   "id": "glazy-15131",
+   "loi": 0.3,
+   "name": "Custer Feldspar",
+   "url": "https://glazy.org/materials/15131"
+  },
+  {
+   "analysis": {
+    "CaO": 30.4819,
+    "MgO": 21.9081
+   },
+   "id": "glazy-15135",
+   "loi": 47.61,
+   "name": "Dolomite",
+   "url": "https://glazy.org/materials/15135"
+  },
+  {
+   "analysis": {
+    "Al2O3": 37.3603,
+    "CaO": 0.1849,
+    "Fe2O3": 0.7607,
+    "K2O": 0.3451,
+    "MgO": 0.1034,
+    "Na2O": 0.0681,
+    "P2O5": 0.2601,
+    "SiO2": 45.727,
+    "TiO2": 0.3804
+   },
+   "id": "glazy-15137",
+   "loi": 14.81,
+   "name": "EP Kaolin",
+   "url": "https://glazy.org/materials/15137"
+  },
+  {
+   "analysis": {
+    "Al2O3": 18.3185,
+    "K2O": 16.9234,
+    "SiO2": 64.7582
+   },
+   "id": "glazy-15142",
+   "loi": 0,
+   "name": "Feldspar",
+   "url": "https://glazy.org/materials/15142"
+  },
+  {
+   "analysis": {
+    "Al2O3": 3.7,
+    "B2O3": 2.64,
+    "CaO": 6.29,
+    "K2O": 2.36,
+    "Na2O": 15.24,
+    "SiO2": 69.77
+   },
+   "id": "glazy-15167",
+   "loi": 0,
+   "name": "Ferro Frit 3110",
+   "url": "https://glazy.org/materials/15167"
+  },
+  {
+   "analysis": {
+    "Al2O3": 9.8977,
+    "B2O3": 13.7671,
+    "CaO": 14.0728,
+    "K2O": 0.6773,
+    "Na2O": 6.2839,
+    "SiO2": 55.3013
+   },
+   "id": "glazy-15168",
+   "loi": 0,
+   "name": "Ferro Frit 3124",
+   "url": "https://glazy.org/materials/15168"
+  },
+  {
+   "analysis": {
+    "Al2O3": 2,
+    "B2O3": 22.79,
+    "CaO": 19.51,
+    "Na2O": 10.14,
+    "SiO2": 45.56
+   },
+   "id": "glazy-15169",
+   "loi": 0,
+   "name": "Ferro Frit 3134",
+   "url": "https://glazy.org/materials/15169"
+  },
+  {
+   "analysis": {
+    "B2O3": 38.2,
+    "Na2O": 7.7,
+    "SiO2": 54.1
+   },
+   "id": "glazy-15170",
+   "loi": 0,
+   "name": "Frit 3185",
+   "url": "https://glazy.org/materials/15170"
+  },
+  {
+   "analysis": {
+    "Al2O3": 11.98,
+    "B2O3": 22.62,
+    "CaO": 11.36,
+    "Na2O": 5.69,
+    "SiO2": 48.35
+   },
+   "id": "glazy-15171",
+   "loi": 0,
+   "name": "Ferro Frit 3195",
+   "url": "https://glazy.org/materials/15171"
+  },
+  {
+   "analysis": {
+    "Al2O3": 18.5403,
+    "CaO": 0.8,
+    "Fe2O3": 0.0865,
+    "K2O": 10.8179,
+    "MgO": 0.0509,
+    "Na2O": 3.1113,
+    "SiO2": 66.443
+   },
+   "id": "glazy-15249",
+   "loi": 0.15,
+   "name": "G-200 Feldspar",
+   "url": "https://glazy.org/materials/15249"
+  },
+  {
+   "analysis": {
+    "Al2O3": 1.0023,
+    "B2O3": 26.7994,
+    "CaO": 19.3978,
+    "Fe2O3": 0.4004,
+    "K2O": 0.4016,
+    "MgO": 3.4991,
+    "Na2O": 4.0006,
+    "P2O5": 0.0997,
+    "SiO2": 14.799,
+    "TiO2": 0.1001
+   },
+   "id": "glazy-15252",
+   "loi": 29.5,
+   "name": "Gerstley Borate",
+   "url": "https://glazy.org/materials/15252"
+  },
+  {
+   "analysis": {
+    "Al2O3": 36.9413,
+    "CaO": 0.0996,
+    "Fe2O3": 0.7001,
+    "K2O": 1.8975,
+    "MgO": 0.2994,
+    "Na2O": 0.0988,
+    "SiO2": 47.9245,
+    "TiO2": 0.0289
+   },
+   "id": "glazy-15268",
+   "loi": 12.01,
+   "name": "Grolleg Kaolin",
+   "url": "https://glazy.org/materials/15268"
+  },
+  {
+   "analysis": {
+    "Al2O3": 17.8597,
+    "CaO": 0.1802,
+    "Fe2O3": 0.0801,
+    "K2O": 10.1412,
+    "Na2O": 3.3637,
+    "SiO2": 68.0651
+   },
+   "id": "glazy-15287",
+   "loi": 0.31,
+   "name": "K-200 Feldspar",
+   "url": "https://glazy.org/materials/15287"
+  },
+  {
+   "analysis": {
+    "Al2O3": 40.2096,
+    "SiO2": 47.2904
+   },
+   "id": "glazy-15288",
+   "loi": 12.5,
+   "name": "Kaolin",
+   "url": "https://glazy.org/materials/15288"
+  },
+  {
+   "analysis": {
+    "Li2O": 40.74
+   },
+   "id": "glazy-15323",
+   "loi": 59.26,
+   "name": "Lithium Carbonate",
+   "url": "https://glazy.org/materials/15323"
+  },
+  {
+   "analysis": {
+    "Al2O3": 18.9438,
+    "CaO": 1.4066,
+    "Fe2O3": 0.0691,
+    "K2O": 4.1209,
+    "MgO": 0.0501,
+    "Na2O": 6.8334,
+    "SiO2": 68.486
+   },
+   "id": "glazy-15348",
+   "loi": 0.09,
+   "name": "NC-4 Feldspar",
+   "url": "https://glazy.org/materials/15348"
+  },
+  {
+   "analysis": {
+    "Al2O3": 23.2992,
+    "CaO": 0.6994,
+    "Fe2O3": 0.0992,
+    "K2O": 4.6009,
+    "MgO": 0.1002,
+    "Na2O": 9.7999,
+    "SiO2": 60.7011
+   },
+   "id": "glazy-15349",
+   "loi": 0.7,
+   "name": "Nepheline Syenite",
+   "url": "https://glazy.org/materials/15349"
+  },
+  {
+   "analysis": {
+    "Al2O3": 18.3202,
+    "K2O": 16.9199,
+    "SiO2": 64.7599
+   },
+   "id": "glazy-15371",
+   "loi": 0,
+   "name": "Potash Feldspar",
+   "url": "https://glazy.org/materials/15371"
+  },
+  {
+   "analysis": {
+    "Fe2O3": 95
+   },
+   "id": "glazy-15387",
+   "loi": 5,
+   "name": "Red Iron Oxide",
+   "url": "https://glazy.org/materials/15387"
+  },
+  {
+   "analysis": {
+    "Fe2O3": 9.8976,
+    "TiO2": 90.0024
+   },
+   "id": "glazy-15393",
+   "loi": 0.1,
+   "name": "Rutile",
+   "url": "https://glazy.org/materials/15393"
+  },
+  {
+   "analysis": {
+    "SiO2": 100
+   },
+   "id": "glazy-15400",
+   "loi": 0,
+   "name": "Silica",
+   "url": "https://glazy.org/materials/15400"
+  },
+  {
+   "analysis": {
+    "SrO": 70.2
+   },
+   "id": "glazy-15431",
+   "loi": 29.8,
+   "name": "Strontium Carbonate",
+   "url": "https://glazy.org/materials/15431"
+  },
+  {
+   "analysis": {
+    "MgO": 31.8703,
+    "SiO2": 63.3797
+   },
+   "id": "glazy-15433",
+   "loi": 4.75,
+   "name": "Talc",
+   "url": "https://glazy.org/materials/15433"
+  },
+  {
+   "analysis": {
+    "SnO2": 100
+   },
+   "id": "glazy-15442",
+   "loi": 0,
+   "name": "Tin Oxide",
+   "url": "https://glazy.org/materials/15442"
+  },
+  {
+   "analysis": {
+    "TiO2": 100
+   },
+   "id": "glazy-15443",
+   "loi": 0,
+   "name": "Titanium Dioxide",
+   "url": "https://glazy.org/materials/15443"
+  },
+  {
+   "analysis": {
+    "CaO": 56.1
+   },
+   "id": "glazy-15457",
+   "loi": 43.9,
+   "name": "Whiting",
+   "url": "https://glazy.org/materials/15457"
+  },
+  {
+   "analysis": {
+    "CaO": 48.275,
+    "SiO2": 51.725
+   },
+   "id": "glazy-15458",
+   "loi": 0,
+   "name": "Wollastonite",
+   "url": "https://glazy.org/materials/15458"
+  },
+  {
+   "analysis": {
+    "Al2O3": 19.9269,
+    "CaO": 0.2302,
+    "Fe2O3": 21.971,
+    "MgO": 0.063,
+    "SiO2": 57.8089
+   },
+   "id": "glazy-15465",
+   "loi": 0,
+   "name": "Yellow Ochre",
+   "url": "https://glazy.org/materials/15465"
+  },
+  {
+   "analysis": {
+    "ZnO": 100
+   },
+   "id": "glazy-15467",
+   "loi": 0,
+   "name": "Zinc Oxide",
+   "url": "https://glazy.org/materials/15467"
+  },
+  {
+   "analysis": {
+    "SiO2": 32.7779,
+    "ZrO2": 67.2221
+   },
+   "id": "glazy-15469",
+   "loi": 0,
+   "name": "Zircopax",
+   "url": "https://glazy.org/materials/15469"
+  },
+  {
+   "analysis": {
+    "Al2O3": 18.3,
+    "CaO": 0.3,
+    "Fe2O3": 0.09,
+    "K2O": 14.2,
+    "Na2O": 0.9,
+    "SiO2": 66
+   },
+   "id": "glazy-15624",
+   "loi": 0.15,
+   "name": "G200 HP Feldspar, G200HP",
+   "url": "https://glazy.org/materials/15624"
+  }
+ ],
+ "recipes": [
+  {
+   "author": "Glazy Admin",
+   "cone": "10",
+   "glazyID": 240,
+   "glazyPercent": {
+    "Al2O3": 10.9119,
+    "CaO": 10.7885,
+    "Fe2O3": 3.6538,
+    "K2O": 6.509,
+    "LOI": 9.8365,
+    "SiO2": 58.3003
+   },
+   "glazySiAl": 9.0665,
+   "glazyUMF": {
+    "Al2O3": 0.4093,
+    "CaO": 0.7357,
+    "Fe2O3": 0.0875,
+    "K2O": 0.2643,
+    "SiO2": 3.7107
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 40,
+     "material": "glazy-15142",
+     "name": "Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 30,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15288",
+     "name": "Kaolin"
+    },
+    {
+     "addition": true,
+     "amount": 4,
+     "material": "glazy-15387",
+     "name": "Red Iron Oxide"
+    }
+   ],
+   "name": "Celadon Leach 4321",
+   "url": "https://glazy.org/recipes/240"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 10",
+   "glazyID": 118,
+   "glazyPercent": {
+    "Al2O3": 11.9385,
+    "CaO": 7.8524,
+    "Fe2O3": 8.5507,
+    "K2O": 8.7987,
+    "LOI": 7.3444,
+    "SiO2": 55.5153
+   },
+   "glazySiAl": 7.891,
+   "glazyUMF": {
+    "Al2O3": 0.5016,
+    "CaO": 0.5999,
+    "Fe2O3": 0.2294,
+    "K2O": 0.4001,
+    "SiO2": 3.958
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 57.14,
+     "material": "glazy-15371",
+     "name": "Potash Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 20.88,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 15.38,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 6.59,
+     "material": "glazy-15288",
+     "name": "Kaolin"
+    },
+    {
+     "addition": true,
+     "amount": 9.89,
+     "material": "glazy-15387",
+     "name": "Red Iron Oxide"
+    }
+   ],
+   "name": "Black Tenmoku",
+   "url": "https://glazy.org/recipes/118"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 10",
+   "glazyID": 780,
+   "glazyPercent": {
+    "Al2O3": 10.7755,
+    "CaO": 2.791,
+    "CoO": 1.6896,
+    "Fe2O3": 6.8777,
+    "K2O": 9.9519,
+    "LOI": 2.8815,
+    "MgO": 1.4435,
+    "SiO2": 63.5894
+   },
+   "glazySiAl": 10.0142,
+   "glazyUMF": {
+    "Al2O3": 0.5526,
+    "CaO": 0.2603,
+    "CoO": 0.1179,
+    "Fe2O3": 0.2252,
+    "K2O": 0.5525,
+    "MgO": 0.1873,
+    "SiO2": 5.5341
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 64.67,
+     "material": "glazy-15371",
+     "name": "Potash Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 24.88,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 5.47,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 4.98,
+     "material": "glazy-15433",
+     "name": "Talc"
+    },
+    {
+     "addition": true,
+     "amount": 7.96,
+     "material": "glazy-15387",
+     "name": "Red Iron Oxide"
+    },
+    {
+     "addition": true,
+     "amount": 1.99,
+     "material": "glazy-15117",
+     "name": "Cobalt Oxide"
+    }
+   ],
+   "name": "Tenmoku Yuteki (Oilspot)",
+   "url": "https://glazy.org/recipes/780"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "10",
+   "glazyID": 338,
+   "glazyPercent": {
+    "Al2O3": 11.9683,
+    "CaO": 11.2399,
+    "Fe2O3": 0.14,
+    "K2O": 4.6095,
+    "LOI": 11.182,
+    "MgO": 0.0599,
+    "Na2O": 0.0198,
+    "SiO2": 60.7749,
+    "TiO2": 0.0058
+   },
+   "glazySiAl": 8.6171,
+   "glazyUMF": {
+    "Al2O3": 0.4673,
+    "CaO": 0.798,
+    "Fe2O3": 0.0035,
+    "K2O": 0.1948,
+    "MgO": 0.0059,
+    "Na2O": 0.0013,
+    "SiO2": 4.027,
+    "TiO2": 0.0003
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 35,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 25,
+     "material": "glazy-15371",
+     "name": "Potash Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15268",
+     "name": "Grolleg Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    }
+   ],
+   "name": "Clear Pete Pinnell",
+   "url": "https://glazy.org/recipes/338"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "8 - 10",
+   "glazyID": 341,
+   "glazyPercent": {
+    "Al2O3": 11.5189,
+    "CaO": 8.1733,
+    "Fe2O3": 0.0289,
+    "K2O": 2.8929,
+    "LOI": 10.704,
+    "Na2O": 0.8679,
+    "SiO2": 60.3124,
+    "SrO": 5.2703
+   },
+   "glazySiAl": 8.8851,
+   "glazyUMF": {
+    "Al2O3": 0.4681,
+    "CaO": 0.604,
+    "Fe2O3": 0.0007,
+    "K2O": 0.1273,
+    "Na2O": 0.058,
+    "SiO2": 4.1594,
+    "SrO": 0.2108
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 32.7,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 28.9,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 16.4,
+     "material": "glazy-15288",
+     "name": "Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 14.4,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 7.5,
+     "material": "glazy-15431",
+     "name": "Strontium Carbonate"
+    }
+   ],
+   "name": "Clear Pinnell Hi Fire Recalc",
+   "url": "https://glazy.org/recipes/341"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 11",
+   "glazyID": 504,
+   "glazyPercent": {
+    "Al2O3": 16.5532,
+    "CaO": 0.4608,
+    "Fe2O3": 0.2272,
+    "K2O": 2.8145,
+    "LOI": 8.2084,
+    "Li2O": 0.3994,
+    "MgO": 0.1274,
+    "Na2O": 5.8626,
+    "SiO2": 51.4836,
+    "SrO": 13.7647,
+    "TiO2": 0.098
+   },
+   "glazySiAl": 5.2778,
+   "glazyUMF": {
+    "Al2O3": 0.5756,
+    "CaO": 0.0291,
+    "Fe2O3": 0.005,
+    "K2O": 0.1059,
+    "Li2O": 0.0474,
+    "MgO": 0.0112,
+    "Na2O": 0.3354,
+    "SiO2": 3.0379,
+    "SrO": 0.471,
+    "TiO2": 0.0044
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 60,
+     "material": "glazy-15349",
+     "name": "Nepheline Syenite"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15431",
+     "name": "Strontium Carbonate"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15058",
+     "name": "Ball Clay"
+    },
+    {
+     "addition": false,
+     "amount": 9,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 1,
+     "material": "glazy-15323",
+     "name": "Lithium Carbonate"
+    },
+    {
+     "addition": true,
+     "amount": 2,
+     "material": "glazy-15072",
+     "name": "Bentonite"
+    }
+   ],
+   "name": "Pete Pinnell Strontium Matte",
+   "url": "https://glazy.org/recipes/504"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 10",
+   "glazyID": 511,
+   "glazyPercent": {
+    "Al2O3": 15.3511,
+    "CaO": 16.2963,
+    "Fe2O3": 0.0236,
+    "K2O": 2.36,
+    "LOI": 22.9922,
+    "MgO": 6.1781,
+    "Na2O": 0.708,
+    "SiO2": 35.9019
+   },
+   "glazySiAl": 3.9687,
+   "glazyUMF": {
+    "Al2O3": 0.3134,
+    "CaO": 0.605,
+    "Fe2O3": 0.0003,
+    "K2O": 0.0522,
+    "MgO": 0.3191,
+    "Na2O": 0.0238,
+    "SiO2": 1.2439
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 28.2,
+     "material": "glazy-15135",
+     "name": "Dolomite"
+    },
+    {
+     "addition": false,
+     "amount": 28.2,
+     "material": "glazy-15288",
+     "name": "Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 23.6,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 13.6,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 6.4,
+     "material": "glazy-15400",
+     "name": "Silica"
+    }
+   ],
+   "name": "Val Cushing Matte",
+   "url": "https://glazy.org/recipes/511"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "10",
+   "glazyID": 584,
+   "glazyPercent": {
+    "Al2O3": 9.1877,
+    "B2O3": 3.3174,
+    "CaO": 4.5715,
+    "Fe2O3": 0.1286,
+    "K2O": 4.3517,
+    "LOI": 8.3392,
+    "MgO": 6.453,
+    "Na2O": 1.7841,
+    "P2O5": 0.0247,
+    "SiO2": 61.4686,
+    "TiO2": 0.0305
+   },
+   "glazySiAl": 11.3531,
+   "glazyUMF": {
+    "Al2O3": 0.2846,
+    "B2O3": 0.1505,
+    "CaO": 0.2575,
+    "Fe2O3": 0.0025,
+    "K2O": 0.1459,
+    "MgO": 0.5057,
+    "Na2O": 0.0909,
+    "P2O5": 0.0005,
+    "SiO2": 3.2312,
+    "TiO2": 0.0012
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 42.86,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 19.05,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 14.29,
+     "material": "glazy-15433",
+     "name": "Talc"
+    },
+    {
+     "addition": false,
+     "amount": 12.38,
+     "material": "glazy-15252",
+     "name": "Gerstley Borate"
+    },
+    {
+     "addition": false,
+     "amount": 6.67,
+     "material": "glazy-15135",
+     "name": "Dolomite"
+    },
+    {
+     "addition": false,
+     "amount": 4.76,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    }
+   ],
+   "name": "Rhodes Magnesia Base",
+   "url": "https://glazy.org/recipes/584"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9",
+   "glazyID": 590,
+   "glazyPercent": {
+    "Al2O3": 9.9745,
+    "BaO": 7.766,
+    "CaO": 16.8973,
+    "Fe2O3": 0.254,
+    "K2O": 0.1592,
+    "LOI": 25.526,
+    "MgO": 0.0504,
+    "Na2O": 0.0532,
+    "P2O5": 0.052,
+    "SiO2": 25.0514,
+    "SrO": 14.04,
+    "TiO2": 0.1761
+   },
+   "glazySiAl": 4.262,
+   "glazyUMF": {
+    "Al2O3": 0.1991,
+    "BaO": 0.1031,
+    "CaO": 0.6134,
+    "Fe2O3": 0.0032,
+    "K2O": 0.0034,
+    "MgO": 0.0025,
+    "Na2O": 0.0017,
+    "P2O5": 0.0007,
+    "SiO2": 0.8487,
+    "SrO": 0.2758,
+    "TiO2": 0.0045
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 30,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15431",
+     "name": "Strontium Carbonate"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15058",
+     "name": "Ball Clay"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15062",
+     "name": "Barium Carbonate"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15400",
+     "name": "Silica"
+    }
+   ],
+   "name": "Val Cushing V.C. Rivulet #1 from Bohls",
+   "url": "https://glazy.org/recipes/590"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "10",
+   "glazyID": 819,
+   "glazyPercent": {
+    "Al2O3": 12.9508,
+    "BaO": 23.298,
+    "CaO": 5.7001,
+    "Fe2O3": 0.0401,
+    "K2O": 5.0706,
+    "LOI": 12.497,
+    "Na2O": 1.6819,
+    "SiO2": 38.7616
+   },
+   "glazySiAl": 5.0789,
+   "glazyUMF": {
+    "Al2O3": 0.3796,
+    "BaO": 0.4542,
+    "CaO": 0.3038,
+    "Fe2O3": 0.0008,
+    "K2O": 0.1609,
+    "Na2O": 0.0811,
+    "SiO2": 1.9282
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 50,
+     "material": "glazy-15287",
+     "name": "K-200 Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 30,
+     "material": "glazy-15062",
+     "name": "Barium Carbonate"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15288",
+     "name": "Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    }
+   ],
+   "name": "Val Cushing V.C. Kyllikki Matte Revised",
+   "url": "https://glazy.org/recipes/819"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 10",
+   "glazyID": 828,
+   "glazyPercent": {
+    "Al2O3": 9.0829,
+    "B2O3": 3.2159,
+    "CaO": 5.9749,
+    "Fe2O3": 0.1001,
+    "K2O": 4.72,
+    "LOI": 8.6656,
+    "MgO": 2.1746,
+    "Na2O": 2.0287,
+    "P2O5": 0.0172,
+    "SiO2": 62.0004,
+    "TiO2": 0.0196,
+    "ZnO": 2
+   },
+   "glazySiAl": 11.5835,
+   "glazyUMF": {
+    "Al2O3": 0.3325,
+    "B2O3": 0.1724,
+    "CaO": 0.3977,
+    "Fe2O3": 0.0023,
+    "K2O": 0.187,
+    "MgO": 0.2014,
+    "Na2O": 0.1222,
+    "P2O5": 0.0005,
+    "SiO2": 3.8515,
+    "TiO2": 0.0009,
+    "ZnO": 0.0917
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 46,
+     "material": "glazy-15287",
+     "name": "K-200 Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 28,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 12,
+     "material": "glazy-15252",
+     "name": "Gerstley Borate"
+    },
+    {
+     "addition": false,
+     "amount": 8,
+     "material": "glazy-15135",
+     "name": "Dolomite"
+    },
+    {
+     "addition": false,
+     "amount": 2,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 2,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 2,
+     "material": "glazy-15467",
+     "name": "Zinc Oxide"
+    }
+   ],
+   "name": "Val Cushing V.C. TB 2",
+   "url": "https://glazy.org/recipes/828"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 10",
+   "glazyID": 831,
+   "glazyPercent": {
+    "Al2O3": 10.8799,
+    "CaO": 11.1541,
+    "Fe2O3": 0.1081,
+    "K2O": 4.091,
+    "LOI": 9.507,
+    "MgO": 0.0103,
+    "Na2O": 1.3523,
+    "P2O5": 0.026,
+    "SiO2": 60.8332,
+    "TiO2": 0.038,
+    "ZnO": 2
+   },
+   "glazySiAl": 9.4882,
+   "glazyUMF": {
+    "Al2O3": 0.3692,
+    "CaO": 0.6883,
+    "Fe2O3": 0.0023,
+    "K2O": 0.1503,
+    "MgO": 0.0009,
+    "Na2O": 0.0755,
+    "P2O5": 0.0006,
+    "SiO2": 3.5035,
+    "TiO2": 0.0016,
+    "ZnO": 0.085
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 40,
+     "material": "glazy-15287",
+     "name": "K-200 Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 28,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 18,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 2,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    },
+    {
+     "addition": false,
+     "amount": 2,
+     "material": "glazy-15467",
+     "name": "Zinc Oxide"
+    }
+   ],
+   "name": "Val Cushing V.C. Transparent Base 3",
+   "url": "https://glazy.org/recipes/831"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 10",
+   "glazyID": 858,
+   "glazyPercent": {
+    "Al2O3": 10.1383,
+    "CaO": 10.5077,
+    "Fe2O3": 0.1006,
+    "K2O": 3.9652,
+    "LOI": 9.3827,
+    "MgO": 0.0279,
+    "Na2O": 1.1376,
+    "P2O5": 0.0236,
+    "SiO2": 58.5706,
+    "TiO2": 0.0346,
+    "ZrO2": 6.1111
+   },
+   "glazySiAl": 9.8035,
+   "glazyUMF": {
+    "Al2O3": 0.4001,
+    "CaO": 0.754,
+    "Fe2O3": 0.0025,
+    "K2O": 0.1694,
+    "MgO": 0.0028,
+    "Na2O": 0.0739,
+    "P2O5": 0.0007,
+    "SiO2": 3.9224,
+    "TiO2": 0.0017,
+    "ZrO2": 0.1996
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 40,
+     "material": "glazy-15249",
+     "name": "G-200 Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 30,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": true,
+     "amount": 10,
+     "material": "glazy-15469",
+     "name": "Zircopax"
+    }
+   ],
+   "name": "White Leach 4321",
+   "url": "https://glazy.org/recipes/858"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "5 - 6",
+   "glazyID": 1399,
+   "glazyPercent": {
+    "Al2O3": 14.0704,
+    "CaO": 10.8409,
+    "Fe2O3": 0.1585,
+    "K2O": 5.2483,
+    "LOI": 10.5704,
+    "MgO": 0.0145,
+    "Na2O": 1.5695,
+    "P2O5": 0.0364,
+    "SiO2": 48.0218,
+    "TiO2": 0.0533,
+    "ZnO": 9
+   },
+   "glazySiAl": 5.7916,
+   "glazyUMF": {
+    "Al2O3": 0.3582,
+    "CaO": 0.5017,
+    "Fe2O3": 0.0026,
+    "K2O": 0.1446,
+    "MgO": 0.0009,
+    "Na2O": 0.0657,
+    "P2O5": 0.0007,
+    "SiO2": 2.0743,
+    "TiO2": 0.0017,
+    "ZnO": 0.287
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 52,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 19,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 14,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 9,
+     "material": "glazy-15467",
+     "name": "Zinc Oxide"
+    },
+    {
+     "addition": false,
+     "amount": 6,
+     "material": "glazy-15400",
+     "name": "Silica"
+    }
+   ],
+   "name": "Val Cushing V.C. Matte 3",
+   "url": "https://glazy.org/recipes/1399"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "6",
+   "glazyID": 1425,
+   "glazyPercent": {
+    "Al2O3": 8.1586,
+    "B2O3": 6.4581,
+    "CaO": 5.5354,
+    "Fe2O3": 0.0373,
+    "K2O": 3.7337,
+    "LOI": 7.1559,
+    "MgO": 5.7422,
+    "Na2O": 1.1201,
+    "SiO2": 59.0573,
+    "ZnO": 2.7027
+   },
+   "glazySiAl": 12.2836,
+   "glazyUMF": {
+    "Al2O3": 0.2409,
+    "B2O3": 0.2793,
+    "CaO": 0.2972,
+    "Fe2O3": 0.0007,
+    "K2O": 0.1194,
+    "MgO": 0.429,
+    "Na2O": 0.0544,
+    "SiO2": 2.9596,
+    "ZnO": 0.1
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 37.3,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 22.7,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 13.6,
+     "material": "glazy-15433",
+     "name": "Talc"
+    },
+    {
+     "addition": false,
+     "amount": 12.7,
+     "material": "glazy-15119",
+     "name": "Colemanite"
+    },
+    {
+     "addition": false,
+     "amount": 6.4,
+     "material": "glazy-15135",
+     "name": "Dolomite"
+    },
+    {
+     "addition": false,
+     "amount": 4.5,
+     "material": "glazy-15288",
+     "name": "Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 2.7,
+     "material": "glazy-15467",
+     "name": "Zinc Oxide"
+    }
+   ],
+   "name": "Oatmeal Pike's",
+   "url": "https://glazy.org/recipes/1425"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "6 - 8",
+   "glazyID": 1479,
+   "glazyPercent": {
+    "Al2O3": 10.8245,
+    "B2O3": 4.7859,
+    "CaO": 13.9146,
+    "Fe2O3": 0.1406,
+    "K2O": 0.9294,
+    "LOI": 2.5026,
+    "MgO": 0.0356,
+    "Na2O": 4.0023,
+    "P2O5": 0.0416,
+    "SiO2": 62.7621,
+    "TiO2": 0.0609
+   },
+   "glazySiAl": 9.8392,
+   "glazyUMF": {
+    "Al2O3": 0.3282,
+    "B2O3": 0.2125,
+    "CaO": 0.7671,
+    "Fe2O3": 0.0027,
+    "K2O": 0.0305,
+    "MgO": 0.0027,
+    "Na2O": 0.1996,
+    "P2O5": 0.0009,
+    "SiO2": 3.2293,
+    "TiO2": 0.0024
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 24,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 21,
+     "material": "glazy-15169",
+     "name": "Ferro Frit 3134"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    },
+    {
+     "addition": false,
+     "amount": 19,
+     "material": "glazy-15349",
+     "name": "Nepheline Syenite"
+    },
+    {
+     "addition": false,
+     "amount": 16,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    }
+   ],
+   "name": "Ron Roy PMSP-4",
+   "url": "https://glazy.org/recipes/1479"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "5 - 6",
+   "glazyID": 1573,
+   "glazyPercent": {
+    "Al2O3": 13.2405,
+    "CaO": 4.2495,
+    "Fe2O3": 0.1045,
+    "K2O": 2.052,
+    "LOI": 4.5658,
+    "MgO": 0.0524,
+    "Na2O": 4.3174,
+    "P2O5": 0.0208,
+    "SiO2": 58.3666,
+    "TiO2": 0.0304,
+    "ZnO": 13
+   },
+   "glazySiAl": 7.4805,
+   "glazyUMF": {
+    "Al2O3": 0.3956,
+    "CaO": 0.2309,
+    "Fe2O3": 0.002,
+    "K2O": 0.0664,
+    "MgO": 0.004,
+    "Na2O": 0.2122,
+    "P2O5": 0.0004,
+    "SiO2": 2.9593,
+    "TiO2": 0.0012,
+    "ZnO": 0.4866
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 44,
+     "material": "glazy-15349",
+     "name": "Nepheline Syenite"
+    },
+    {
+     "addition": false,
+     "amount": 28,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 13,
+     "material": "glazy-15467",
+     "name": "Zinc Oxide"
+    },
+    {
+     "addition": false,
+     "amount": 8,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 7,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    }
+   ],
+   "name": "Translucent Base (Val Cushing V.C. Celadon)",
+   "url": "https://glazy.org/recipes/1573"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "5 - 6",
+   "glazyID": 1577,
+   "glazyPercent": {
+    "Al2O3": 10.6663,
+    "B2O3": 3.4839,
+    "CaO": 11.0752,
+    "Fe2O3": 0.1681,
+    "K2O": 4.0867,
+    "LOI": 12.021,
+    "MgO": 0.4652,
+    "Na2O": 1.7269,
+    "P2O5": 0.039,
+    "SiO2": 51.8966,
+    "TiO2": 0.0511,
+    "ZnO": 4
+   },
+   "glazySiAl": 8.2564,
+   "glazyUMF": {
+    "Al2O3": 0.3175,
+    "B2O3": 0.1519,
+    "CaO": 0.5995,
+    "Fe2O3": 0.0032,
+    "K2O": 0.1317,
+    "MgO": 0.035,
+    "Na2O": 0.0846,
+    "P2O5": 0.0008,
+    "SiO2": 2.6218,
+    "TiO2": 0.0019,
+    "ZnO": 0.1492
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 40,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 18,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 15,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 13,
+     "material": "glazy-15252",
+     "name": "Gerstley Borate"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 4,
+     "material": "glazy-15467",
+     "name": "Zinc Oxide"
+    }
+   ],
+   "name": "Val Cushing Transparent 3",
+   "url": "https://glazy.org/recipes/1577"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "5 - 6",
+   "glazyID": 1597,
+   "glazyPercent": {
+    "Al2O3": 9.7749,
+    "B2O3": 10.9402,
+    "CaO": 16.012,
+    "Fe2O3": 0.1161,
+    "K2O": 0.481,
+    "LOI": 8.821,
+    "MgO": 0.3603,
+    "Na2O": 4.1772,
+    "P2O5": 0.036,
+    "SiO2": 49.2334,
+    "TiO2": 0.0481
+   },
+   "glazySiAl": 8.547,
+   "glazyUMF": {
+    "Al2O3": 0.2612,
+    "B2O3": 0.4282,
+    "CaO": 0.7781,
+    "Fe2O3": 0.002,
+    "K2O": 0.0139,
+    "MgO": 0.0244,
+    "Na2O": 0.1837,
+    "P2O5": 0.0007,
+    "SiO2": 2.2328,
+    "TiO2": 0.0016
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 60,
+     "material": "glazy-15168",
+     "name": "Ferro Frit 3124"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15252",
+     "name": "Gerstley Borate"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    }
+   ],
+   "name": "Val Cushing V.C. 1-6",
+   "url": "https://glazy.org/recipes/1597"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "04 - 03",
+   "glazyID": 1830,
+   "glazyPercent": {
+    "Al2O3": 7.6466,
+    "B2O3": 14.4378,
+    "CaO": 10.8787,
+    "LOI": 5.0646,
+    "Li2O": 1.3879,
+    "Na2O": 3.6318,
+    "SiO2": 49.7779,
+    "SrO": 7.1747
+   },
+   "glazySiAl": 11.0468,
+   "glazyUMF": {
+    "Al2O3": 0.2036,
+    "B2O3": 0.5631,
+    "CaO": 0.5268,
+    "Li2O": 0.1261,
+    "Na2O": 0.1591,
+    "SiO2": 2.2495,
+    "SrO": 0.188
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 63.7,
+     "material": "glazy-15171",
+     "name": "Ferro Frit 3195"
+    },
+    {
+     "addition": false,
+     "amount": 15,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 10.2,
+     "material": "glazy-15431",
+     "name": "Strontium Carbonate"
+    },
+    {
+     "addition": false,
+     "amount": 7.5,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    },
+    {
+     "addition": false,
+     "amount": 3.4,
+     "material": "glazy-15323",
+     "name": "Lithium Carbonate"
+    }
+   ],
+   "name": "Clear Best Variation #22 Pete Pinnell revised",
+   "url": "https://glazy.org/recipes/1830"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "04",
+   "glazyID": 1843,
+   "glazyPercent": {
+    "Al2O3": 5.6557,
+    "B2O3": 18.4325,
+    "CaO": 15.6694,
+    "Fe2O3": 0.0736,
+    "K2O": 0.4089,
+    "LOI": 4.79,
+    "Li2O": 1.6296,
+    "MgO": 0.1892,
+    "Na2O": 8.5931,
+    "P2O5": 0.0206,
+    "SiO2": 42.5097,
+    "TiO2": 0.0278,
+    "ZnO": 2
+   },
+   "glazySiAl": 12.7547,
+   "glazyUMF": {
+    "Al2O3": 0.1096,
+    "B2O3": 0.523,
+    "CaO": 0.552,
+    "Fe2O3": 0.0009,
+    "K2O": 0.0086,
+    "Li2O": 0.1077,
+    "MgO": 0.0093,
+    "Na2O": 0.2739,
+    "P2O5": 0.0003,
+    "SiO2": 1.3976,
+    "TiO2": 0.0007,
+    "ZnO": 0.0485
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 75,
+     "material": "glazy-15169",
+     "name": "Ferro Frit 3134"
+    },
+    {
+     "addition": false,
+     "amount": 8,
+     "material": "glazy-15349",
+     "name": "Nepheline Syenite"
+    },
+    {
+     "addition": false,
+     "amount": 6,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 5,
+     "material": "glazy-15252",
+     "name": "Gerstley Borate"
+    },
+    {
+     "addition": false,
+     "amount": 4,
+     "material": "glazy-15323",
+     "name": "Lithium Carbonate"
+    },
+    {
+     "addition": false,
+     "amount": 2,
+     "material": "glazy-15467",
+     "name": "Zinc Oxide"
+    }
+   ],
+   "name": "Val Cushing Clear Gloss",
+   "url": "https://glazy.org/recipes/1843"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "6 - 8",
+   "glazyID": 904,
+   "glazyPercent": {
+    "Al2O3": 11.2721,
+    "B2O3": 4.558,
+    "CaO": 13.654,
+    "Fe2O3": 0.1721,
+    "K2O": 2.069,
+    "LOI": 3.022,
+    "MgO": 0.0207,
+    "Na2O": 2.6416,
+    "P2O5": 0.052,
+    "SiO2": 62.3024,
+    "TiO2": 0.0761
+   },
+   "glazySiAl": 9.3793,
+   "glazyUMF": {
+    "Al2O3": 0.3583,
+    "B2O3": 0.2122,
+    "CaO": 0.789,
+    "Fe2O3": 0.0035,
+    "K2O": 0.0712,
+    "MgO": 0.0017,
+    "Na2O": 0.1381,
+    "P2O5": 0.0012,
+    "SiO2": 3.3602,
+    "TiO2": 0.0031
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15169",
+     "name": "Ferro Frit 3134"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    }
+   ],
+   "name": "5-20's Tony Hansen",
+   "url": "https://glazy.org/recipes/904"
+  },
+  {
+   "author": "Ceramic Recipes",
+   "cone": "6",
+   "glazyID": 6799,
+   "glazyPercent": {
+    "Al2O3": 11.5321,
+    "B2O3": 4.558,
+    "CaO": 8.8265,
+    "Fe2O3": 0.1701,
+    "K2O": 2.909,
+    "LOI": 3.5383,
+    "MgO": 3.6858,
+    "Na2O": 2.2216,
+    "P2O5": 0.052,
+    "SiO2": 62.4186,
+    "TiO2": 0.0761
+   },
+   "glazySiAl": 9.1849,
+   "glazyUMF": {
+    "Al2O3": 0.3584,
+    "B2O3": 0.2075,
+    "CaO": 0.4988,
+    "Fe2O3": 0.0034,
+    "K2O": 0.0979,
+    "MgO": 0.2898,
+    "Na2O": 0.1136,
+    "P2O5": 0.0012,
+    "SiO2": 3.2919,
+    "TiO2": 0.003
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15169",
+     "name": "Ferro Frit 3134"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15624",
+     "name": "G200 HP Feldspar, G200HP"
+    },
+    {
+     "addition": false,
+     "amount": 18.5,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 11.5,
+     "material": "glazy-15433",
+     "name": "Talc"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    }
+   ],
+   "name": "MC6 Glossy Base 1",
+   "url": "https://glazy.org/recipes/6799"
+  },
+  {
+   "author": "Ceramic Recipes",
+   "cone": "6",
+   "glazyID": 6798,
+   "glazyPercent": {
+    "Al2O3": 12.1019,
+    "B2O3": 4.558,
+    "CaO": 11.2033,
+    "Fe2O3": 0.018,
+    "K2O": 2.84,
+    "LOI": 2.815,
+    "MgO": 1.9122,
+    "Na2O": 2.208,
+    "SiO2": 62.3316
+   },
+   "glazySiAl": 8.7402,
+   "glazyUMF": {
+    "Al2O3": 0.3792,
+    "B2O3": 0.2092,
+    "CaO": 0.6383,
+    "Fe2O3": 0.0004,
+    "K2O": 0.0963,
+    "MgO": 0.1516,
+    "Na2O": 0.1138,
+    "SiO2": 3.3143
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15169",
+     "name": "Ferro Frit 3134"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15288",
+     "name": "Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15624",
+     "name": "G200 HP Feldspar, G200HP"
+    },
+    {
+     "addition": false,
+     "amount": 19,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 15,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    },
+    {
+     "addition": false,
+     "amount": 6,
+     "material": "glazy-15433",
+     "name": "Talc"
+    }
+   ],
+   "name": "MC6 Glossy Clear Liner Glaze",
+   "url": "https://glazy.org/recipes/6798"
+  },
+  {
+   "author": "Ceramic Recipes",
+   "cone": "6",
+   "glazyID": 6811,
+   "glazyPercent": {
+    "Al2O3": 12.1237,
+    "CaO": 6.5461,
+    "Fe2O3": 0.1118,
+    "K2O": 1.6908,
+    "LOI": 1.733,
+    "MgO": 0.0464,
+    "Na2O": 3.5348,
+    "P2O5": 0.026,
+    "SiO2": 64.1493,
+    "TiO2": 0.038,
+    "ZnO": 10
+   },
+   "glazySiAl": 8.9789,
+   "glazyUMF": {
+    "Al2O3": 0.3766,
+    "CaO": 0.3697,
+    "Fe2O3": 0.0022,
+    "K2O": 0.0569,
+    "MgO": 0.0036,
+    "Na2O": 0.1806,
+    "P2O5": 0.0006,
+    "SiO2": 3.3815,
+    "TiO2": 0.0015,
+    "ZnO": 0.3891
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 36,
+     "material": "glazy-15349",
+     "name": "Nepheline Syenite"
+    },
+    {
+     "addition": false,
+     "amount": 31,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 13,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15467",
+     "name": "Zinc Oxide"
+    }
+   ],
+   "name": "MC6 Zinc Semimatte Glossy Base Glaze",
+   "url": "https://glazy.org/recipes/6811"
+  },
+  {
+   "author": "Ceramic Recipes",
+   "cone": "6",
+   "glazyID": 3907,
+   "glazyPercent": {
+    "Al2O3": 13.3474,
+    "B2O3": 4.9081,
+    "CaO": 15.2921,
+    "Fe2O3": 0.7649,
+    "K2O": 0.2648,
+    "LOI": 3.9442,
+    "MgO": 0.0311,
+    "Na2O": 1.6224,
+    "P2O5": 0.0687,
+    "SiO2": 54.5613,
+    "TiO2": 5.195
+   },
+   "glazySiAl": 6.9368,
+   "glazyUMF": {
+    "Al2O3": 0.4328,
+    "B2O3": 0.2331,
+    "CaO": 0.9016,
+    "Fe2O3": 0.0158,
+    "K2O": 0.0093,
+    "MgO": 0.0026,
+    "Na2O": 0.0865,
+    "P2O5": 0.0016,
+    "SiO2": 3.0023,
+    "TiO2": 0.2151
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 28,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 28,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    },
+    {
+     "addition": false,
+     "amount": 23,
+     "material": "glazy-15171",
+     "name": "Ferro Frit 3195"
+    },
+    {
+     "addition": false,
+     "amount": 17,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 4,
+     "material": "glazy-15349",
+     "name": "Nepheline Syenite"
+    },
+    {
+     "addition": true,
+     "amount": 6,
+     "material": "glazy-15393",
+     "name": "Rutile"
+    }
+   ],
+   "name": "MC6 High Calcium Matte Base 2",
+   "url": "https://glazy.org/recipes/3907"
+  },
+  {
+   "author": "Ceramic Recipes",
+   "cone": "6",
+   "glazyID": 4022,
+   "glazyPercent": {
+    "Al2O3": 9.5597,
+    "B2O3": 5.3382,
+    "CaO": 6.6793,
+    "CoO": 1.1351,
+    "Fe2O3": 7.839,
+    "K2O": 2.0348,
+    "LOI": 5.1957,
+    "MgO": 1.4514,
+    "Na2O": 2.9802,
+    "P2O5": 0.0398,
+    "SiO2": 57.5299,
+    "TiO2": 0.0583
+   },
+   "glazySiAl": 10.2122,
+   "glazyUMF": {
+    "Al2O3": 0.4171,
+    "B2O3": 0.3411,
+    "CaO": 0.5298,
+    "CoO": 0.0674,
+    "Fe2O3": 0.2184,
+    "K2O": 0.0961,
+    "MgO": 0.1602,
+    "Na2O": 0.2139,
+    "P2O5": 0.0012,
+    "SiO2": 4.2591,
+    "TiO2": 0.0032
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 26,
+     "material": "glazy-15169",
+     "name": "Ferro Frit 3134"
+    },
+    {
+     "addition": false,
+     "amount": 26,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 22,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 17,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 5,
+     "material": "glazy-15433",
+     "name": "Talc"
+    },
+    {
+     "addition": false,
+     "amount": 4,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": true,
+     "amount": 9,
+     "material": "glazy-15387",
+     "name": "Red Iron Oxide"
+    },
+    {
+     "addition": true,
+     "amount": 2,
+     "material": "glazy-15114",
+     "name": "Cobalt Carbonate"
+    }
+   ],
+   "name": "MC6 Licorice (Glossy Base II)",
+   "url": "https://glazy.org/recipes/4022"
+  },
+  {
+   "author": "William Schran",
+   "cone": "6",
+   "glazyID": 6052,
+   "glazyPercent": {
+    "Al2O3": 10.8142,
+    "B2O3": 5.6975,
+    "CaO": 12.017,
+    "Fe2O3": 0.1612,
+    "K2O": 0.6654,
+    "LOI": 8.4665,
+    "MgO": 0.0332,
+    "Na2O": 3.8223,
+    "P2O5": 0.0507,
+    "SiO2": 58.1979,
+    "TiO2": 0.0742
+   },
+   "glazySiAl": 9.1324,
+   "glazyUMF": {
+    "Al2O3": 0.3737,
+    "B2O3": 0.2883,
+    "CaO": 0.755,
+    "Fe2O3": 0.0036,
+    "K2O": 0.0249,
+    "MgO": 0.0029,
+    "Na2O": 0.2173,
+    "P2O5": 0.0013,
+    "SiO2": 3.4123,
+    "TiO2": 0.0033
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 30,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 25,
+     "material": "glazy-15169",
+     "name": "Ferro Frit 3134"
+    },
+    {
+     "addition": false,
+     "amount": 19.5,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 13,
+     "material": "glazy-15349",
+     "name": "Nepheline Syenite"
+    },
+    {
+     "addition": false,
+     "amount": 12.5,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    }
+   ],
+   "name": "Ron Roy's Oxidation Clear",
+   "url": "https://glazy.org/recipes/6052"
+  },
+  {
+   "author": "Ceramic Recipes",
+   "cone": "7",
+   "glazyID": 6660,
+   "glazyPercent": {
+    "Al2O3": 12.6816,
+    "B2O3": 5.6975,
+    "CaO": 9.9622,
+    "Fe2O3": 0.2005,
+    "K2O": 0.7044,
+    "LOI": 3.716,
+    "MgO": 0.0334,
+    "Na2O": 3.577,
+    "P2O5": 0.065,
+    "SiO2": 63.2672,
+    "TiO2": 0.0951
+   },
+   "glazySiAl": 8.4659,
+   "glazyUMF": {
+    "Al2O3": 0.5104,
+    "B2O3": 0.3358,
+    "CaO": 0.7291,
+    "Fe2O3": 0.0052,
+    "K2O": 0.0307,
+    "MgO": 0.0034,
+    "Na2O": 0.2368,
+    "P2O5": 0.0019,
+    "SiO2": 4.3212,
+    "TiO2": 0.0049
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 25,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 25,
+     "material": "glazy-15169",
+     "name": "Ferro Frit 3134"
+    },
+    {
+     "addition": false,
+     "amount": 25,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 15,
+     "material": "glazy-15348",
+     "name": "NC-4 Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 10,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    }
+   ],
+   "name": "G1214W Clear",
+   "url": "https://glazy.org/recipes/6660"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "04",
+   "glazyID": 1741,
+   "glazyPercent": {
+    "Al2O3": 20.0463,
+    "B2O3": 8.1503,
+    "CaO": 0.0107,
+    "Fe2O3": 5.4254,
+    "K2O": 8.4286,
+    "LOI": 4.545,
+    "MgO": 0.0029,
+    "Na2O": 1.6429,
+    "SiO2": 51.748
+   },
+   "glazySiAl": 4.3805,
+   "glazyUMF": {
+    "Al2O3": 1.6913,
+    "B2O3": 1.007,
+    "CaO": 0.0016,
+    "Fe2O3": 0.2923,
+    "K2O": 0.7697,
+    "MgO": 0.0006,
+    "Na2O": 0.228,
+    "SiO2": 7.4086
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 53.7,
+     "material": "glazy-15371",
+     "name": "Potash Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 23,
+     "material": "glazy-15170",
+     "name": "Frit 3185"
+    },
+    {
+     "addition": false,
+     "amount": 12,
+     "material": "glazy-15288",
+     "name": "Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 9.1,
+     "material": "glazy-15020",
+     "name": "Alumina Hydrate"
+    },
+    {
+     "addition": true,
+     "amount": 5,
+     "material": "glazy-15387",
+     "name": "Red Iron Oxide"
+    },
+    {
+     "addition": true,
+     "amount": 5,
+     "material": "glazy-15465",
+     "name": "Yellow Ochre"
+    }
+   ],
+   "name": "Bleeding Cake from John Britt recalc",
+   "url": "https://glazy.org/recipes/1741"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 10",
+   "glazyID": 197,
+   "glazyPercent": {
+    "Al2O3": 13.8729,
+    "CaO": 18.4674,
+    "CuO": 2.3844,
+    "Fe2O3": 0.2233,
+    "K2O": 1.8957,
+    "LOI": 17.8822,
+    "MgO": 0.0792,
+    "Na2O": 1.417,
+    "P2O5": 0.0482,
+    "SiO2": 39.8913,
+    "SnO2": 3.7037,
+    "TiO2": 0.1346
+   },
+   "glazySiAl": 4.8795,
+   "glazyUMF": {
+    "Al2O3": 0.3635,
+    "CaO": 0.8799,
+    "CuO": 0.0801,
+    "Fe2O3": 0.0037,
+    "K2O": 0.0538,
+    "MgO": 0.0053,
+    "Na2O": 0.0611,
+    "P2O5": 0.0009,
+    "SiO2": 1.7739,
+    "SnO2": 0.0657,
+    "TiO2": 0.0045
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 46,
+     "material": "glazy-15125",
+     "name": "Cornwall Stone"
+    },
+    {
+     "addition": false,
+     "amount": 34,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": true,
+     "amount": 4,
+     "material": "glazy-15120",
+     "name": "Copper Carbonate"
+    },
+    {
+     "addition": true,
+     "amount": 4,
+     "material": "glazy-15442",
+     "name": "Tin Oxide"
+    }
+   ],
+   "name": "Val Cushing V.C. Blue-Green AA Copper",
+   "url": "https://glazy.org/recipes/197"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "10",
+   "glazyID": 175,
+   "glazyPercent": {
+    "Al2O3": 13.8842,
+    "CaO": 8.9957,
+    "CoO": 1.1169,
+    "Fe2O3": 0.22,
+    "K2O": 3.8665,
+    "LOI": 12.1201,
+    "MgO": 0.0398,
+    "Na2O": 1.1798,
+    "P2O5": 0.0504,
+    "SiO2": 50.269,
+    "SrO": 3.4533,
+    "TiO2": 4.5011
+   },
+   "glazySiAl": 6.1439,
+   "glazyUMF": {
+    "Al2O3": 0.5344,
+    "CaO": 0.6295,
+    "CoO": 0.0585,
+    "Fe2O3": 0.0054,
+    "K2O": 0.1611,
+    "MgO": 0.0039,
+    "Na2O": 0.0747,
+    "P2O5": 0.0014,
+    "SiO2": 3.2833,
+    "SrO": 0.1308,
+    "TiO2": 0.2212
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 40.83,
+     "material": "glazy-15131",
+     "name": "Custer Feldspar"
+    },
+    {
+     "addition": false,
+     "amount": 20.89,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 16.97,
+     "material": "glazy-15457",
+     "name": "Whiting"
+    },
+    {
+     "addition": false,
+     "amount": 16.01,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 5.3,
+     "material": "glazy-15431",
+     "name": "Strontium Carbonate"
+    },
+    {
+     "addition": true,
+     "amount": 4.77,
+     "material": "glazy-15443",
+     "name": "Titanium Dioxide"
+    },
+    {
+     "addition": true,
+     "amount": 1.91,
+     "material": "glazy-15114",
+     "name": "Cobalt Carbonate"
+    },
+    {
+     "addition": true,
+     "amount": 1.06,
+     "material": "glazy-15072",
+     "name": "Bentonite"
+    }
+   ],
+   "name": "Blue Royal",
+   "url": "https://glazy.org/recipes/175"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "03",
+   "glazyID": 1818,
+   "glazyPercent": {
+    "Al2O3": 5.544,
+    "B2O3": 1.7335,
+    "CaO": 9.4727,
+    "Fe2O3": 0.1101,
+    "K2O": 1.5908,
+    "LOI": 4.564,
+    "Li2O": 0.6899,
+    "MgO": 1.8969,
+    "Na2O": 10.0576,
+    "P2O5": 0.0196,
+    "SiO2": 59.5374,
+    "SrO": 4.7548,
+    "TiO2": 0.0286
+   },
+   "glazySiAl": 18.2236,
+   "glazyUMF": {
+    "Al2O3": 0.1172,
+    "B2O3": 0.0536,
+    "CaO": 0.364,
+    "Fe2O3": 0.0015,
+    "K2O": 0.0364,
+    "Li2O": 0.0497,
+    "MgO": 0.1014,
+    "Na2O": 0.3496,
+    "P2O5": 0.0003,
+    "SiO2": 2.135,
+    "SrO": 0.0989,
+    "TiO2": 0.0008
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 69.8,
+     "material": "glazy-15167",
+     "name": "Ferro Frit 3110"
+    },
+    {
+     "addition": false,
+     "amount": 11.7,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    },
+    {
+     "addition": false,
+     "amount": 8,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 7.2,
+     "material": "glazy-15431",
+     "name": "Strontium Carbonate"
+    },
+    {
+     "addition": false,
+     "amount": 6.2,
+     "material": "glazy-15433",
+     "name": "Talc"
+    },
+    {
+     "addition": false,
+     "amount": 1.8,
+     "material": "glazy-15323",
+     "name": "Lithium Carbonate"
+    },
+    {
+     "addition": true,
+     "amount": 1.6,
+     "material": "glazy-15072",
+     "name": "Bentonite"
+    }
+   ],
+   "name": "Clear Arbuckle new from limits",
+   "url": "https://glazy.org/recipes/1818"
+  },
+  {
+   "author": "Glazy Admin",
+   "cone": "9 - 10",
+   "glazyID": 806,
+   "glazyPercent": {
+    "Al2O3": 9.3297,
+    "B2O3": 1.34,
+    "CaO": 5.0356,
+    "Fe2O3": 0.1077,
+    "K2O": 1.2899,
+    "LOI": 14.1806,
+    "Li2O": 7.3332,
+    "MgO": 4.6721,
+    "Na2O": 2.8515,
+    "P2O5": 0.0258,
+    "SiO2": 53.7985,
+    "TiO2": 0.0354
+   },
+   "glazySiAl": 9.7852,
+   "glazyUMF": {
+    "Al2O3": 0.1791,
+    "B2O3": 0.0377,
+    "CaO": 0.1758,
+    "Fe2O3": 0.0013,
+    "K2O": 0.0268,
+    "Li2O": 0.4804,
+    "MgO": 0.2269,
+    "Na2O": 0.0901,
+    "P2O5": 0.0004,
+    "SiO2": 1.7528,
+    "TiO2": 0.0009
+   },
+   "lines": [
+    {
+     "addition": false,
+     "amount": 27,
+     "material": "glazy-15349",
+     "name": "Nepheline Syenite"
+    },
+    {
+     "addition": false,
+     "amount": 20,
+     "material": "glazy-15400",
+     "name": "Silica"
+    },
+    {
+     "addition": false,
+     "amount": 18,
+     "material": "glazy-15323",
+     "name": "Lithium Carbonate"
+    },
+    {
+     "addition": false,
+     "amount": 14,
+     "material": "glazy-15433",
+     "name": "Talc"
+    },
+    {
+     "addition": false,
+     "amount": 8,
+     "material": "glazy-15137",
+     "name": "EP Kaolin"
+    },
+    {
+     "addition": false,
+     "amount": 8,
+     "material": "glazy-15458",
+     "name": "Wollastonite"
+    },
+    {
+     "addition": false,
+     "amount": 5,
+     "material": "glazy-15252",
+     "name": "Gerstley Borate"
+    }
+   ],
+   "name": "Val Cushing V.C. Good Color Satin Matte",
+   "url": "https://glazy.org/recipes/806"
+  }
+ ],
+ "source": "Glazy public data export, https://github.com/derekphilipau/glazy-data (glazy_20260531.yaml.gz for recipes and material analyses; glazy-data-all-20211130.csv for Glazy-computed UMF), CC BY-NC-SA 4.0"
+}

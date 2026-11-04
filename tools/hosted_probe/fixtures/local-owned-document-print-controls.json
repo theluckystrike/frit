@@ -1,0 +1,37 @@
+[
+  {
+    "AXRole": "AXWindow",
+    "AXTitle": "Print",
+    "AXIdentifier": "_NS:273"
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "Cancel",
+    "AXIdentifier": "_NS:8"
+  },
+  {
+    "AXRole": "AXButton",
+    "AXTitle": "Print",
+    "AXIdentifier": "_NS:50"
+  },
+  {
+    "AXRole": "AXTextField",
+    "AXDescription": "Recipe name",
+    "AXValue": "QA runtime saved"
+  },
+  {
+    "AXRole": "AXMenuItem",
+    "AXTitle": "Close",
+    "AXIdentifier": "performClose:"
+  },
+  {
+    "AXRole": "AXMenuItem",
+    "AXTitle": "Save",
+    "AXIdentifier": "saveDocument:"
+  },
+  {
+    "AXRole": "AXMenuItem",
+    "AXTitle": "Print Batch Sheet\u2026",
+    "AXIdentifier": "menuAction:"
+  }
+]

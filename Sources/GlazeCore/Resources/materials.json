@@ -1,0 +1,506 @@
+[
+  {
+    "id": "silica",
+    "name": "Silica (quartz, flint)",
+    "formula": "SiO2",
+    "analysis": {
+      "SiO2": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula SiO2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "whiting",
+    "name": "Whiting (calcium carbonate)",
+    "formula": "CaCO3",
+    "analysis": {
+      "CaO": 56.0288
+    },
+    "loi": 43.9712,
+    "source": "Theoretical: computed from the chemical formula CaCO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "wollastonite",
+    "name": "Wollastonite",
+    "formula": "CaSiO3",
+    "analysis": {
+      "CaO": 48.2757,
+      "SiO2": 51.7243
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula CaSiO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "talc",
+    "name": "Talc",
+    "formula": "Mg3Si4O10(OH)2",
+    "analysis": {
+      "MgO": 31.8811,
+      "SiO2": 63.3688
+    },
+    "loi": 4.7501,
+    "source": "Theoretical: computed from the chemical formula Mg3Si4O10(OH)2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "dolomite",
+    "name": "Dolomite",
+    "formula": "CaMg(CO3)2",
+    "analysis": {
+      "MgO": 21.857,
+      "CaO": 30.4107
+    },
+    "loi": 47.7324,
+    "source": "Theoretical: computed from the chemical formula CaMg(CO3)2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "kaolin",
+    "name": "Kaolin (kaolinite)",
+    "formula": "Al2Si2O5(OH)4",
+    "analysis": {
+      "Al2O3": 39.4957,
+      "SiO2": 46.5476
+    },
+    "loi": 13.9566,
+    "source": "Theoretical: computed from the chemical formula Al2Si2O5(OH)4 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "calcined-kaolin",
+    "name": "Calcined kaolin (metakaolin)",
+    "formula": "Al2Si2O7",
+    "analysis": {
+      "Al2O3": 45.9021,
+      "SiO2": 54.0979
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula Al2Si2O7 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "pyrophyllite",
+    "name": "Pyrophyllite",
+    "formula": "Al2Si4O10(OH)2",
+    "analysis": {
+      "Al2O3": 28.2983,
+      "SiO2": 66.7018
+    },
+    "loi": 4.9999,
+    "source": "Theoretical: computed from the chemical formula Al2Si4O10(OH)2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "kyanite",
+    "name": "Kyanite",
+    "formula": "Al2SiO5",
+    "analysis": {
+      "Al2O3": 62.9218,
+      "SiO2": 37.0782
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula Al2SiO5 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "potash-feldspar",
+    "name": "Potash feldspar (orthoclase)",
+    "formula": "KAlSi3O8",
+    "analysis": {
+      "K2O": 16.9216,
+      "Al2O3": 18.3168,
+      "SiO2": 64.7616
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula KAlSi3O8 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "soda-feldspar",
+    "name": "Soda feldspar (albite)",
+    "formula": "NaAlSi3O8",
+    "analysis": {
+      "Na2O": 11.8182,
+      "Al2O3": 19.442,
+      "SiO2": 68.7399
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula NaAlSi3O8 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "calcium-feldspar",
+    "name": "Calcium feldspar (anorthite)",
+    "formula": "CaAl2Si2O8",
+    "analysis": {
+      "CaO": 20.1568,
+      "Al2O3": 36.6497,
+      "SiO2": 43.1935
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula CaAl2Si2O8 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "nepheline",
+    "name": "Nepheline (mineral; not nepheline syenite)",
+    "formula": "NaAlSiO4",
+    "analysis": {
+      "Na2O": 21.8154,
+      "Al2O3": 35.8884,
+      "SiO2": 42.2962
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula NaAlSiO4 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "spodumene",
+    "name": "Spodumene",
+    "formula": "LiAlSi2O6",
+    "analysis": {
+      "Li2O": 8.0283,
+      "Al2O3": 27.3962,
+      "SiO2": 64.5755
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula LiAlSi2O6 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "petalite",
+    "name": "Petalite",
+    "formula": "LiAlSi4O10",
+    "analysis": {
+      "Li2O": 4.8782,
+      "Al2O3": 16.6466,
+      "SiO2": 78.4752
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula LiAlSi4O10 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "diopside",
+    "name": "Diopside",
+    "formula": "CaMgSi2O6",
+    "analysis": {
+      "MgO": 18.6121,
+      "CaO": 25.896,
+      "SiO2": 55.4919
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula CaMgSi2O6 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "lithium-carbonate",
+    "name": "Lithium carbonate",
+    "formula": "Li2CO3",
+    "analysis": {
+      "Li2O": 40.4382
+    },
+    "loi": 59.5618,
+    "source": "Theoretical: computed from the chemical formula Li2CO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "soda-ash",
+    "name": "Soda ash (sodium carbonate)",
+    "formula": "Na2CO3",
+    "analysis": {
+      "Na2O": 58.4774
+    },
+    "loi": 41.5226,
+    "source": "Theoretical: computed from the chemical formula Na2CO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "pearl-ash",
+    "name": "Pearl ash (potassium carbonate)",
+    "formula": "K2CO3",
+    "analysis": {
+      "K2O": 68.1565
+    },
+    "loi": 31.8435,
+    "source": "Theoretical: computed from the chemical formula K2CO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "magnesium-carbonate",
+    "name": "Magnesium carbonate (magnesite)",
+    "formula": "MgCO3",
+    "analysis": {
+      "MgO": 47.8028
+    },
+    "loi": 52.1972,
+    "source": "Theoretical: computed from the chemical formula MgCO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "magnesium-oxide",
+    "name": "Magnesium oxide",
+    "formula": "MgO",
+    "analysis": {
+      "MgO": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula MgO with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "strontium-carbonate",
+    "name": "Strontium carbonate",
+    "formula": "SrCO3",
+    "analysis": {
+      "SrO": 70.1893
+    },
+    "loi": 29.8107,
+    "source": "Theoretical: computed from the chemical formula SrCO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "barium-carbonate",
+    "name": "Barium carbonate",
+    "formula": "BaCO3",
+    "analysis": {
+      "BaO": 77.6987
+    },
+    "loi": 22.3013,
+    "source": "Theoretical: computed from the chemical formula BaCO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "zinc-oxide",
+    "name": "Zinc oxide",
+    "formula": "ZnO",
+    "analysis": {
+      "ZnO": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula ZnO with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "alumina",
+    "name": "Alumina (calcined)",
+    "formula": "Al2O3",
+    "analysis": {
+      "Al2O3": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula Al2O3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "alumina-hydrate",
+    "name": "Alumina hydrate",
+    "formula": "Al(OH)3",
+    "analysis": {
+      "Al2O3": 65.3571
+    },
+    "loi": 34.6429,
+    "source": "Theoretical: computed from the chemical formula Al(OH)3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "boric-acid",
+    "name": "Boric acid",
+    "formula": "H3BO3",
+    "analysis": {
+      "B2O3": 56.2962
+    },
+    "loi": 43.7038,
+    "source": "Theoretical: computed from the chemical formula H3BO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "borax",
+    "name": "Borax (decahydrate)",
+    "formula": "Na2B4O7·10H2O",
+    "analysis": {
+      "Na2O": 16.252,
+      "B2O3": 36.5096
+    },
+    "loi": 47.2385,
+    "source": "Theoretical: computed from the chemical formula Na2B4O7·10H2O with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "colemanite",
+    "name": "Colemanite (mineral)",
+    "formula": "Ca2B6O11·5H2O",
+    "analysis": {
+      "CaO": 27.2828,
+      "B2O3": 50.8054
+    },
+    "loi": 21.9118,
+    "source": "Theoretical: computed from the chemical formula Ca2B6O11·5H2O with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "ulexite",
+    "name": "Ulexite (mineral)",
+    "formula": "NaCaB5O9·8H2O",
+    "analysis": {
+      "Na2O": 7.6474,
+      "CaO": 13.8383,
+      "B2O3": 42.9492
+    },
+    "loi": 35.5651,
+    "source": "Theoretical: computed from the chemical formula NaCaB5O9·8H2O with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "bone-ash",
+    "name": "Bone ash (tricalcium phosphate)",
+    "formula": "Ca3(PO4)2",
+    "analysis": {
+      "CaO": 54.2376,
+      "P2O5": 45.7624
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula Ca3(PO4)2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "titanium-dioxide",
+    "name": "Titanium dioxide",
+    "formula": "TiO2",
+    "analysis": {
+      "TiO2": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula TiO2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "tin-oxide",
+    "name": "Tin oxide",
+    "formula": "SnO2",
+    "analysis": {
+      "SnO2": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula SnO2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "zircon",
+    "name": "Zircon (zirconium silicate)",
+    "formula": "ZrSiO4",
+    "analysis": {
+      "SiO2": 32.778,
+      "ZrO2": 67.222
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula ZrSiO4 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "zirconium-oxide",
+    "name": "Zirconium oxide",
+    "formula": "ZrO2",
+    "analysis": {
+      "ZrO2": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula ZrO2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "red-iron-oxide",
+    "name": "Red iron oxide",
+    "formula": "Fe2O3",
+    "analysis": {
+      "Fe2O3": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula Fe2O3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "yellow-iron-oxide",
+    "name": "Yellow iron oxide (goethite)",
+    "formula": "FeO(OH)",
+    "analysis": {
+      "Fe2O3": 89.8622
+    },
+    "loi": 10.1378,
+    "source": "Theoretical: computed from the chemical formula FeO(OH) with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "cobalt-carbonate",
+    "name": "Cobalt carbonate",
+    "formula": "CoCO3",
+    "analysis": {
+      "CoO": 62.9993
+    },
+    "loi": 37.0007,
+    "source": "Theoretical: computed from the chemical formula CoCO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "cobalt-oxide",
+    "name": "Cobalt oxide, black",
+    "formula": "Co3O4",
+    "analysis": {
+      "CoO": 93.3558
+    },
+    "loi": 6.6442,
+    "source": "Theoretical: computed from the chemical formula Co3O4 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "copper-carbonate",
+    "name": "Copper carbonate (basic)",
+    "formula": "Cu2(OH)2CO3",
+    "analysis": {
+      "CuO": 71.9493
+    },
+    "loi": 28.0507,
+    "source": "Theoretical: computed from the chemical formula Cu2(OH)2CO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "copper-oxide",
+    "name": "Copper oxide, black",
+    "formula": "CuO",
+    "analysis": {
+      "CuO": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula CuO with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "chrome-oxide",
+    "name": "Chrome oxide",
+    "formula": "Cr2O3",
+    "analysis": {
+      "Cr2O3": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula Cr2O3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "manganese-dioxide",
+    "name": "Manganese dioxide",
+    "formula": "MnO2",
+    "analysis": {
+      "MnO": 81.5968
+    },
+    "loi": 18.4032,
+    "source": "Theoretical: computed from the chemical formula MnO2 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "manganese-carbonate",
+    "name": "Manganese carbonate",
+    "formula": "MnCO3",
+    "analysis": {
+      "MnO": 61.7133
+    },
+    "loi": 38.2867,
+    "source": "Theoretical: computed from the chemical formula MnCO3 with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "nickel-oxide",
+    "name": "Nickel oxide, green",
+    "formula": "NiO",
+    "analysis": {
+      "NiO": 100.0
+    },
+    "loi": 0.0,
+    "source": "Theoretical: computed from the chemical formula NiO with IUPAC 2021 atomic weights. Real material lots differ."
+  },
+  {
+    "id": "frit-generic-calcium-borate",
+    "name": "Generic calcium borate frit (theoretical)",
+    "formula": "0.3 Na2O · 0.7 CaO · 1 B2O3 · 2 SiO2",
+    "analysis": {
+      "Na2O": 7.5086,
+      "CaO": 15.8518,
+      "B2O3": 28.1132,
+      "SiO2": 48.5263
+    },
+    "loi": 0.0,
+    "source": "Generic theoretical frit defined in this app by its oxide formula 0.3 Na2O · 0.7 CaO · 1 B2O3 · 2 SiO2; computed with IUPAC 2021 atomic weights. Not a commercial product."
+  },
+  {
+    "id": "frit-generic-soda-borosilicate",
+    "name": "Generic soda borosilicate frit (theoretical)",
+    "formula": "0.6 Na2O · 0.4 CaO · 0.6 B2O3 · 0.3 Al2O3 · 3 SiO2",
+    "analysis": {
+      "Na2O": 11.9104,
+      "CaO": 7.1842,
+      "B2O3": 13.3782,
+      "Al2O3": 9.7969,
+      "SiO2": 57.7304
+    },
+    "loi": 0.0,
+    "source": "Generic theoretical frit defined in this app by its oxide formula 0.6 Na2O · 0.4 CaO · 0.6 B2O3 · 0.3 Al2O3 · 3 SiO2; computed with IUPAC 2021 atomic weights. Not a commercial product."
+  }
+]
