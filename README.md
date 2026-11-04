@@ -28,4 +28,3 @@ To build the Mac app bundle, open `Frit.xcodeproj` in Xcode. To build it from th
 
 Open an issue in this repository. Email: support@barframe.com.
 
-Other Mac apps by the same developer: https://github.com/theluckystrike/barframe-apps
