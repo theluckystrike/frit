@@ -2,7 +2,21 @@
 
 Frit is a glaze recipe book for potters on the Mac. It reworks a glaze recipe when a material changes, moves one oxide to a target, and finds each fired test tile by the code on its back. It works offline, and your recipes stay in your own files.
 
-- Download the notarized app: https://frit-app.pages.dev/
+- Download the notarized app: https://github.com/theluckystrike/frit/releases/latest or https://frit-app.pages.dev/
+
+![Replace a material and keep the chemistry](docs/1-replace-a-material-and-keep-the-chemistry.png)
+
+## What Frit does
+
+- **Replace Material.** Choose a material that changed or ran out, and the one to use in its place. Frit works out new amounts so that the unity formula stays as close to the original as the materials allow. The sample swaps Whiting for Wollastonite, and every oxide reaches its original value.
+- **Oxide Nudge.** Move one oxide (for example SiO2) to a target value. Frit changes the base materials and shows the new recipe before you save it as a copy.
+- **Test tiles.** Give each fired test a code. Write the code on the back of the tile. Find the test later by its code, and print labels.
+- **Stull chart.** See where the glaze sits on the SiO2 and Al2O3 chart (a rough guide).
+- **Offline.** No account. Your recipes stay in your own files.
+
+![Move one oxide to a target](docs/2-move-one-oxide-to-a-target.png)
+
+A matching unity formula does not promise the same glaze. Particle size, impurities and the real analysis of your materials also matter. Test each new recipe on tiles.
 
 The code is under the MIT License. See [LICENSE](LICENSE).
 
