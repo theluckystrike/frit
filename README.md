@@ -42,3 +42,12 @@ To build the Mac app bundle, open `Frit.xcodeproj` in Xcode. To build it from th
 
 Open an issue in this repository. Email: support@barframe.com.
 
+## Support this work
+
+Frit is free and open source. If it saves you time at the wheel or the kiln, you can support its work:
+
+- [GitHub Sponsors](https://github.com/sponsors/theluckystrike)
+- [PayPal](https://paypal.me/najzzz)
+- [Buy Me a Coffee](https://buymeacoffee.com/michaellip)
+
+A star on this repository also helps other people find it.
