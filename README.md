@@ -1,5 +1,7 @@
 # Frit
 
+Free and open source. If an app saves you time, you can support the work on [GitHub Sponsors](https://github.com/sponsors/theluckystrike), [PayPal](https://paypal.me/najzzz) or [Buy Me a Coffee](https://buymeacoffee.com/michaellip).
+
 Frit is a glaze recipe book for potters on the Mac. It reworks a glaze recipe when a material changes, moves one oxide to a target, and finds each fired test tile by the code on its back. It works offline, and your recipes stay in your own files.
 
 Download the notarized app from [GitHub releases](https://github.com/theluckystrike/frit/releases/latest) or from the [Frit website](https://frit-app.pages.dev/download/). Frit needs macOS 14 or later and runs on Apple silicon and Intel Macs.
@@ -37,6 +39,16 @@ To build the Mac app bundle, open `Frit.xcodeproj` in Xcode. To build it from th
 - `Sources/GlazeApp` has the AppKit and SwiftUI app.
 - `Tests` has the unit tests for the core and the app.
 - `tools` has the build, packaging and check scripts.
+
+## More from the author
+
+- [Zovo](https://zovo.one/). Chrome extensions and free online tools.
+- [BeLikeNative](https://www.belikenative.com/). Check your English in a Chrome side panel.
+- [NoteMods](https://notemods.com/). Open source Obsidian plugins for Bases, tables and tasks.
+- [ml0x](https://ml0x.com/). Guardrails, tests and budget caps for Claude Code agents.
+- [Axdale](https://axdale.com/). Hire an agentic full-stack developer in Warsaw.
+
+All projects by Michael Lip are listed at https://barframe.com/projects/.
 
 ## Contact
 
