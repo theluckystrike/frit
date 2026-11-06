@@ -6,6 +6,13 @@ Frit is a glaze recipe book for potters on the Mac. It reworks a glaze recipe wh
 
 Download the notarized app from [GitHub releases](https://github.com/theluckystrike/frit/releases/latest) or from the [Frit website](https://frit-app.pages.dev/download/). Frit needs macOS 14 or later and runs on Apple silicon and Intel Macs.
 
+Or install it with Homebrew. Trust the tap one time, then install.
+
+```sh
+brew trust --tap theluckystrike/barframe
+brew install --cask theluckystrike/barframe/frit
+```
+
 ![Replace a material and keep the chemistry](docs/1-replace-a-material-and-keep-the-chemistry.png)
 
 ## What Frit does
